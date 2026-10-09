@@ -416,8 +416,8 @@ http://190.108.83.69:8000/play/a01h/index.m3u8
 http://181.119.215.61:8000/play/a0l4/index.m3u8?hls
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwYZ7Bvt1BEUprbX9x6I3PYFRrdks3MUzuJ0xqJreFWg&s=10",HBO POP HD
 http://190.108.83.69:8000/play/a03k/index.m3u8
-#EXTINF:-1 group-title="http://200.115.120.1:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwYZ7Bvt1BEUprbX9x6I3PYFRrdks3MUzuJ0xqJreFWg&s=10",HBO Pop HD
-http://200.115.120.1:8000/play/ca138/index.m3u8
+#EXTINF:-1 group-title="http://181.224.255.210:8001/playlist.m3u?hls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwYZ7Bvt1BEUprbX9x6I3PYFRrdks3MUzuJ0xqJreFWg&s=10",HBO Pop HD
+http://181.224.255.210:8001/play/a0on/index.m3u8?hls
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxtcDvV1ZA401Fz8pxZdUThsM_4pbvLXnbvsx5dR_Knw&s=10",HBO Signature
 http://190.108.83.69:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u?hls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOBcdit0GoV8Tss9t_3joJqaCWPQ4yW5iLunMPoTYNVcrBwNGPDYdj6Scv&s=10",HBO XTREME HD
