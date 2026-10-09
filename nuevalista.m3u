@@ -72,6 +72,8 @@ http://38.187.7.252:8000/play/a03d/index.m3u8
 http://45.134.141.161:2200/ARG/DTV_SP2/index.m3u8
 #EXTINF:-1 group-title="https://raw.githubusercontent.com/martinez-x25/suprem3u-argentina/refs/heads/main/lista.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnP81mpAWxsfpBjKUR35jt9_zMBuojm98AQoEEXWOotA&s=10",DSports +
 http://195.178.110.110/dsportsplus/index.m3u8
+#EXTINF:-1 group-title="https://raw.githubusercontent.com/martinez-x25/suprem3u-argentina/refs/heads/main/lista.m3u" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/mobile/website/img/espn_app_72@2x.png",ESPN | AR
+http://195.178.110.110/espn/index.m3u8
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://pbs.twimg.com/profile_images/856564125455065089/MAJ4Buek_400x400.jpg",ESPN HD
 http://190.108.83.69:8000/play/a03s/index.m3u8
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZOZnAWNAL1L-TUMhZ2bM4lF_fx7pIrSXkJyoIWJZFGA&s=10",ESPN 2 HD
@@ -414,6 +416,8 @@ http://190.108.83.69:8000/play/a01h/index.m3u8
 http://181.119.215.61:8000/play/a0l4/index.m3u8?hls
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwYZ7Bvt1BEUprbX9x6I3PYFRrdks3MUzuJ0xqJreFWg&s=10",HBO POP HD
 http://190.108.83.69:8000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="http://200.115.120.1:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwYZ7Bvt1BEUprbX9x6I3PYFRrdks3MUzuJ0xqJreFWg&s=10",HBO Pop HD
+http://200.115.120.1:8000/play/ca138/index.m3u8
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxtcDvV1ZA401Fz8pxZdUThsM_4pbvLXnbvsx5dR_Knw&s=10",HBO Signature
 http://190.108.83.69:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u?hls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOBcdit0GoV8Tss9t_3joJqaCWPQ4yW5iLunMPoTYNVcrBwNGPDYdj6Scv&s=10",HBO XTREME HD
