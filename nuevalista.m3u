@@ -440,14 +440,14 @@ http://190.108.83.69:8000/play/a04a/index.m3u8
 http://181.224.255.210:8001/play/a0oc/index.m3u8?hls
 #EXTINF:-1 group-title="http://45.5.118.152:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvr9HihzPXsHaU6ZXntzX7FqEhMqcU5C2SiopnrJ5q1A&s=10",Sony Movies HD
 http://45.5.118.152:8000/play/a02m/index.m3u8
-#EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvr9HihzPXsHaU6ZXntzX7FqEhMqcU5C2SiopnrJ5q1A&s=10",Sony Movies HD [Opc.2]
-http://186.148.175.138:8000/play/a05b
+#EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u?hls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvr9HihzPXsHaU6ZXntzX7FqEhMqcU5C2SiopnrJ5q1A&s=10",Sony Movies HD [Opc.2]
+http://181.119.215.61:8000/play/a03s/index.m3u8?hls
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://yt3.googleusercontent.com/irlhzgSdjKVxOsiCvar_vZwPufzNIs4V-Y14UoqKmWmL7Zwstm0AR7DUmWGwUm89BcJlfUFq6w=w544-c-h544-k-c0x00ffffff-no-l90-rj",Space HD
 http://190.108.83.69:8000/play/a04e/index.m3u8
 #EXTINF:-1 group-title="OPC" tvg-logo="https://yt3.googleusercontent.com/irlhzgSdjKVxOsiCvar_vZwPufzNIs4V-Y14UoqKmWmL7Zwstm0AR7DUmWGwUm89BcJlfUFq6w=w544-c-h544-k-c0x00ffffff-no-l90-rj",Space HD (Opc.2)
 http://205.235.6.29:8000/play/a0yu/index.m3u8?hls
-#EXTINF:-1 group-title="http://45.5.118.152:8000/playlist.m3u8          HD MEXICO" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox_m.png",Star Channel HD
-http://45.5.118.152:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox_m.png",Star Channel HD
+http://190.108.83.69:8000/play/a04j/index.m3u8
 #EXTINF:-1 group-title="CHILE   http://181.79.87.130:8000/playlist.m3u8" tvg-logo="https://yt3.googleusercontent.com/QddGcof0oTnuO6xYOQ1NET4CHNCwW0NVId72hu8P3F_YvBgUrzNxHxNHAVCG-ZBQPu1kMHaGeuM=s900-c-k-c0x00ffffff-no-rj",Studio Universal
 http://181.79.87.130:8000/play/a00z/index.m3u8
 #EXTINF:-1 group-title="TELE" tvg-logo="https://yt3.googleusercontent.com/QddGcof0oTnuO6xYOQ1NET4CHNCwW0NVId72hu8P3F_YvBgUrzNxHxNHAVCG-ZBQPu1kMHaGeuM=s900-c-k-c0x00ffffff-no-rj",Studio Universal HD
@@ -482,12 +482,10 @@ http://45.5.118.152:8000/play/a0do/index.m3u8
 http://190.108.83.69:8000/play/a00v/index.m3u8
 #EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWiwJyCnO7Udzdbx88MJ-W3oghLOH7PDxihbhBVmFqNQ&s=10",USA Network HD [Opc.2]
 http://190.108.83.69:8000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-r1zz_R_5JxT9_K06RAymwed0H8uEcLIzn8HIvV_OQ&s=10",Warner Channel HD
-http://181.79.86.130:8000/play/a041/index.m3u8
+#EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-r1zz_R_5JxT9_K06RAymwed0H8uEcLIzn8HIvV_OQ&s=10",Warner Channel HD
+http://190.108.83.69:8000/play/a04b/index.m3u8
 #EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-r1zz_R_5JxT9_K06RAymwed0H8uEcLIzn8HIvV_OQ&s=10",Warner Channel HD (Opc.2)
 http://205.235.6.29:8000/play/a0ys/index.m3u8?hls
-#EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-r1zz_R_5JxT9_K06RAymwed0H8uEcLIzn8HIvV_OQ&s=10",Warner Channel SD (Opc.3)
-http://45.5.116.228:8000/play/a07j/index.m3u8
 #EXTINF:-1 group-title="OPC (OPC2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm81kyIUDJ7cr5Rk61EQuZg7lFbmRosHPL-8Uu7JK9jA&s",Pasiones HD
 http://45.5.118.152:8000/play/a06d/index.m3u8
 #EXTINF:-1 group-title="OPC (OPC2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCWE0qrhV3LDM5Q43ZDP3OvHuTVsLYiCEasaPeNhDFgg&s=10",RCN Novelas SD
