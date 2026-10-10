@@ -148,10 +148,10 @@ http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CMUSICTOP__
 #EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u?hls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3osCr_6urBwh4J6-pBrzXPsGpvFXlbq3o8NzEGyMokmspfEdGwiPlh19b&s=10",Claro Musica
 http://181.119.215.61:8000/play/a07z/index.m3u8?hls
-#EXTINF:-1 group-title="TELE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThw3cgUjrL1LerGrfpfgEece8OUOKve6cGNRO9m-PGzA&s=10",Telehit Musica (1080p)
-http://186.33.61.182:8000/play/a05l/index.m3u8
+#EXTINF:-1 group-title="INDEX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThw3cgUjrL1LerGrfpfgEece8OUOKve6cGNRO9m-PGzA&s=10",Telehit Musica (1080p)
+http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8
 #EXTINF:-1 group-title="INDEX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjMYOsEbRpRxi6d1-Th0vI5ooXp_M9LjbOE3ZdHxHRlg&s",TeleHit
-http://200.115.120.1:8000/play/ca048/index.m3u8
+http://190.61.47.54:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxd1jaG1JI3vbVoEv5OkL7_MShCw4_S0eVpvpiV6v5S_Y1r1NDoqou4Tg&s=10",Trace Latina (Internacional)
 https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
 #EXTINF:-1 group-title="LEGUAGES" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic.png",Totalmusic (1080p)
