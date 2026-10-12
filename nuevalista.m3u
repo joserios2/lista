@@ -294,8 +294,8 @@ https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe0yJJ8U6hH_s8W9dtwMqLnYtqlECZ1eD18gCPqYCNsg&s",Amazonia TV
 https://servilive.com:3199/live/amazoniatvlive.m3u8
-#EXTINF:-1 group-title="TELE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcNOb1UkTllwWh_zG-aBx5Pqm8vpqXGURd15u_yxghTg&s=10",Animal Planet HD
-http://186.33.61.182:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u8?hls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcNOb1UkTllwWh_zG-aBx5Pqm8vpqXGURd15u_yxghTg&s=10",Animal Planet HD
+http://181.119.215.61:8000/play/a0gq/index.m3u8?hls
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhZ4jGObqluzNhwWCZ67KTZdaz7luJcacMfS1bFE3mg&s",Discovery Channel  HD
 http://190.108.83.69:8000/play/a044/index.m3u8
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTDqf_k5EiS7IaRAdm2DolEzJIKH79urcrUg532j4ypQ&s=10",Discovery Home & Health HD
@@ -460,8 +460,8 @@ http://205.235.6.29:8000/play/a0yu/index.m3u8?hls
 http://190.108.83.69:8000/play/a04j/index.m3u8
 #EXTINF:-1 group-title="CHILE   http://181.79.87.130:8000/playlist.m3u8" tvg-logo="https://yt3.googleusercontent.com/QddGcof0oTnuO6xYOQ1NET4CHNCwW0NVId72hu8P3F_YvBgUrzNxHxNHAVCG-ZBQPu1kMHaGeuM=s900-c-k-c0x00ffffff-no-rj",Studio Universal
 http://181.79.87.130:8000/play/a00z/index.m3u8
-#EXTINF:-1 group-title="TELE" tvg-logo="https://yt3.googleusercontent.com/QddGcof0oTnuO6xYOQ1NET4CHNCwW0NVId72hu8P3F_YvBgUrzNxHxNHAVCG-ZBQPu1kMHaGeuM=s900-c-k-c0x00ffffff-no-rj",Studio Universal HD
-http://186.33.61.182:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u8?hls" tvg-logo="https://yt3.googleusercontent.com/QddGcof0oTnuO6xYOQ1NET4CHNCwW0NVId72hu8P3F_YvBgUrzNxHxNHAVCG-ZBQPu1kMHaGeuM=s900-c-k-c0x00ffffff-no-rj",Studio Universal HD
+http://181.119.215.61:8000/play/a04t/index.m3u8?hls
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1AdC0HgnX5xUO3skEJcnAAMp_TwGIk8KxyuZAkiaOSA&s",TCM HD
 http://190.108.83.69:8000/play/a00y/index.m3u8
 #EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1AdC0HgnX5xUO3skEJcnAAMp_TwGIk8KxyuZAkiaOSA&s",TCM HD (Opc.2)
