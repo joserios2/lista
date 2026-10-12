@@ -10,7 +10,7 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 http://181.115.239.66:8000/play/a02r/index.m3u8
 #EXTINF:-1 group-title="redworldpro8880" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/La_Naci%C3%B3n_%2B.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",LN+ | ARG
 http://redworld.pro:8880/zmqzveazwu/BG8G38evFkyP/490466
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRhntABKfea-gy7K1MT2U7nM713yOXHgIILQmSmfhlAg&s=10" group-title="XUPERARLIST",TN Todo Noticias - CTV - CABA TV Cable - CD Cd Aut Bs As
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRhntABKfea-gy7K1MT2U7nM713yOXHgIILQmSmfhlAg&s=10" group-title="XUPERARLIST",TN Todo Noticias
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHHJmJxNJAIWXnyPzYS6-x_-Vt_sib67Dgda6dOmPww&s",CNN Espanol
 http://190.108.83.69:8000/play/a023/index.m3u8
@@ -18,7 +18,7 @@ http://190.108.83.69:8000/play/a023/index.m3u8
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8
 #EXTINF:-1 group-title="Varias OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEaJ99bdXDnXAci0eK_qbFto9jthrDu3HTku_Zltx4pQ&s",RT Noticias (HD)
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT3lvIMgqSrHVu_-JdlXxGEoZ2E65MQ81N87xFTZuSdw&s=10" group-title="SerenoTV",Telesur - 25.4TV - CABA TV TDA - CD Cd Aut Bs As
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT3lvIMgqSrHVu_-JdlXxGEoZ2E65MQ81N87xFTZuSdw&s=10" group-title="SerenoTV",Telesur
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJjPxtcDpicVAadSuXl0X3NuVepGCNm45i-6VnGpNr4Q&s=10" group-title="SerenoTV",+Perfil
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream1/chunks.m3u8?nimblesessionid=914851465
