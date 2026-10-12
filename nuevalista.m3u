@@ -219,7 +219,7 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz8gXkN6f1TS0JODXEIQajWHVsAw_mJIzdZivYbPWKqQ&s=10" group-title="Serenotv",NEO TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="RAW",NET TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 group-title="RAW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPg1OiMMrXX6EdXXBM4X_3-ZB0lynbYMbFTFb3hxMD-w&s=10",Power Max TV
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 #EXTINF:-1 group-title="http://190.128.214.97:64333/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrNCrMZWU4pbMOYND8W6sK8Bikw1cGHKpvdqEETeRWZQ&s=10",Tec
