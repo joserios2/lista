@@ -1,46 +1,39 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwB9bdYWra8uujtvONHmwlkbmqiGPuHC4dyFuTLtRP2w&s=10",A24 - 36.3TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__36.3A24_______
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwB9bdYWra8uujtvONHmwlkbmqiGPuHC4dyFuTLtRP2w&s=10" group-title="IPTVappArgentina",A24
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #EXTINF:-1 group-title="http://190.128.214.97:64333/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO1PZirjBnkgQr8KEjITxp7FlGUW7vtIaZEaTZD0tA8Q&s=10",AR12
 http://190.128.214.97:64333/play/a01y/index.m3u8
 #EXTINF:-1 group-title="redworldpro8880" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaKPBExyZFEjTbVM6ycMEoglKabjfpN7D3PxLisC1V5Q&s=10",C5N | ARG
 http://redworld.pro:8880/zmqzveazwu/BG8G38evFkyP/490448
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCXhwSjUV8HkXJhbvlzTjLTTqmZYHla-UA7CtxJ2OTiQ&s=10",Canal 26 - 26.1TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__26.1CANAL26___
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCXhwSjUV8HkXJhbvlzTjLTTqmZYHla-UA7CtxJ2OTiQ&s=10" group-title="RAW",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 group-title="http://181.115.239.66:8000.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtqlTWh4_FI6Jc1ajr0pcqRHkHbYeOdjqwITiJIZFj4g&s=10",Cronica TV
 http://181.115.239.66:8000/play/a02r/index.m3u8
 #EXTINF:-1 group-title="redworldpro8880" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/La_Naci%C3%B3n_%2B.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",LN+ | ARG
 http://redworld.pro:8880/zmqzveazwu/BG8G38evFkyP/490466
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRhntABKfea-gy7K1MT2U7nM713yOXHgIILQmSmfhlAg&s=10",TN Todo Noticias - CTV - CABA TV Cable - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTNTODONOTI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRhntABKfea-gy7K1MT2U7nM713yOXHgIILQmSmfhlAg&s=10" group-title="XUPERARLIST",TN Todo Noticias - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHHJmJxNJAIWXnyPzYS6-x_-Vt_sib67Dgda6dOmPww&s",CNN Espanol
 http://190.108.83.69:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="Varias opc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqXhgTLzccLqjuSqn1wjlDAsaKypqckREdOgz5Ba0EyA&s",CNN en Español (Internacional / América)
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6cA4g0dgWONdxgq9_NzHj_TG2G_vK3N1chSQiwkObDA&s",DW Español - CTV - CABA TV Cable - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CDWESPANOL_
 #EXTINF:-1 group-title="Varias OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEaJ99bdXDnXAci0eK_qbFto9jthrDu3HTku_Zltx4pQ&s",RT Noticias (HD)
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT3lvIMgqSrHVu_-JdlXxGEoZ2E65MQ81N87xFTZuSdw&s=10",Telesur - 25.4TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__25.4TELESUR___
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQtUgMPD8LOSXG18ldyyT588qr0TVnU6-CMg61w2HyA&s",Canal-E - 25.6TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__25.6CANAL-E___
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxuN1S-SytRCe7mgEeXlzPf54oJ7tNaWgshEvRSyZkDQ&s=10",Multivision 9 - 35.1TV - Salta  TV - SA Salta
-https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA__35.1MULTIVISIO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT3lvIMgqSrHVu_-JdlXxGEoZ2E65MQ81N87xFTZuSdw&s=10" group-title="SerenoTV",Telesur - 25.4TV - CABA TV TDA - CD Cd Aut Bs As
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJjPxtcDpicVAadSuXl0X3NuVepGCNm45i-6VnGpNr4Q&s=10" group-title="SerenoTV",+Perfil
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream1/chunks.m3u8?nimblesessionid=914851465
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxuN1S-SytRCe7mgEeXlzPf54oJ7tNaWgshEvRSyZkDQ&s=10" group-title="SerenoTV",Multivision 9 - 35.1TV - Salta  TV
+https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
 #EXTINF:-1 group-title="http://181.115.239.66:8000/playlist.m3u" tvg-logo="https://yt3.googleusercontent.com/3B05WqW7DRkr0OVmIvS9KfMSN9yGZAM5L0N6_iIBNOoCnbv8Vk9MNcesPM1t9CVotFjtAwLycA=s900-c-k-c0x00ffffff-no-rj",Canal Rural
 http://181.115.239.66:8000/play/a035/index.m3u8
 #EXTINF:-1 group-title="https://raw.githubusercontent.com/martinez-x25/suprem3u-argentina/refs/heads/main/lista.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtaTSjR2JteDnPR0M8bBMb02IyETlCQomqYzDWCj2XoQ&s=10",Encuentro
 http://181.209.80.115:8000/play/encuentro
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9mgx_19Z4JRHEno2t8fU8SNNoRsA28HT8OFmMabY9GA&s=10",TVP - 23.2TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__23.2LS82TVP___
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdCUMTfuGHX54VegTxUROy7PVEkFmfeRQkoxQDB8i-tQ&s=10",America - 36.1TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__36.1LS86AMERIC
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLSozGSdk_Vb52JCb-Cr3TVLjd9I3AksMH3iLzXia08w&s=10",America TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9mgx_19Z4JRHEno2t8fU8SNNoRsA28HT8OFmMabY9GA&s=10" group-title="http://181.115.239.66:8000/playlist.m3u",TVP - 23.2TV - CABA TV TDA - CD Cd Aut Bs As
+http://181.115.239.66:8000/play/a02o/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdCUMTfuGHX54VegTxUROy7PVEkFmfeRQkoxQDB8i-tQ&s=10",America TV
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:-1 group-title="http://181.115.239.66:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQedZzmtuh-Nc-Pld2Edq3zaNSiIijZe_I2Fz_lmA7IA&s",El Nueve
 http://181.115.239.66:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="XUPERARLIST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",Telefe HD
-http://181.209.80.115:8000/play/telefe_hd
 #EXTINF:-1 group-title="alltvmx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",Telefe HD
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTINF:-1 group-title="RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",Telefe BsAs
@@ -127,8 +120,8 @@ http://190.108.83.69:8000/play/a03i/index.m3u8
 http://138.59.227.20:8000/play/a06x/index.m3u8
 #EXTINF:-1 group-title="http://190.128.214.97:64333/playlist.m3u8" tvg-logo="https://yt3.googleusercontent.com/VkAgCIDmeBeTHRQhvzF4Pfqu-JbLy2WWvcwBB_qVwhKp-I30toccvyxlGJlbFpcJscwCQ1HwAg=s900-c-k-c0x00ffffff-no-rj",TyC Sports HD
 http://190.128.214.97:64333/play/a01l/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_FQVW411aP95zkWHuJfIm4hniDnarZm1jAtzKa0rlJg&s",TyC Sports - CTV - CABA TV Cable - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTYCSPORTS_
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_FQVW411aP95zkWHuJfIm4hniDnarZm1jAtzKa0rlJg&s" group-title="Index",TyC Sports Fan
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJGjx9Bv2YfWxFj0vQt49dFZG1d-z-N7G6Y3ZTvxb-Bg&s=10",TyC Sports USA
 http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcB199riTmAGYKcUvwBYib0hGC9C_1ayOwhls1O8-3A&s=10",Garage TV
@@ -137,10 +130,10 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 http://181.115.239.66:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFmkI3WDsjLK_Hr6MzxB3S9lZH1pmA9TEEcQNO6lD4ag&s=10",Canal de la Musica - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CCANALDELAM
-#EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQG3oy5KBzh-rG-WgBTQ1bjMtk0NjR2WiJiKGnvf9Hcw&s=10",Musictop | AR
+#EXTINF:-1 group-title="SerenoTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQG3oy5KBzh-rG-WgBTQ1bjMtk0NjR2WiJiKGnvf9Hcw&s=10",Musictop | AR
 http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQG3oy5KBzh-rG-WgBTQ1bjMtk0NjR2WiJiKGnvf9Hcw&s=10",Musictop - CTV - CABA TV Cable - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CMUSICTOP__
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQG3oy5KBzh-rG-WgBTQ1bjMtk0NjR2WiJiKGnvf9Hcw&s=10" group-title="http://190.128.214.97:64333/playlist.m3u",Musictop
+http://190.128.214.97:64333/play/a06o/index.m3u8
 #EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u?hls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3osCr_6urBwh4J6-pBrzXPsGpvFXlbq3o8NzEGyMokmspfEdGwiPlh19b&s=10",Claro Musica
 http://181.119.215.61:8000/play/a07z/index.m3u8?hls
 #EXTINF:-1 group-title="INDEX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThw3cgUjrL1LerGrfpfgEece8OUOKve6cGNRO9m-PGzA&s=10",Telehit Musica (1080p)
@@ -183,14 +176,12 @@ https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbU-OOoIS4s4IWpcN_vW8ElEu1zja6WhYDVPbBvgAVvA&s=10",Folcloreando TV
 https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQiO75_zhTgFKDIHwh-vNSpNLqiPEah8tDkEBjliy2dg&s=10",TierraMia - CTV - CABA TV Cable - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTIERRAMIA_
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQiO75_zhTgFKDIHwh-vNSpNLqiPEah8tDkEBjliy2dg&s=10" group-title="serenotv.",TierraMia TV
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8?uid=e300b67767b6617745c9b67c72f71d56
 #EXTINF:-1 group-title="RAW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh2YXAri9mF9CKUIbOlptby4Gh1JILa_DKcsfZL7rtoQ&s=10",Chamame TV
 https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
 #EXTINF:-1 group-title="RAW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqmYxbkk-89gphLhimk23jn-F7qoq4s7_3uL-MySExQ&s=10",LA 100 AR
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",Vorterix - 92.1 TV - CABA FM - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_92.1_VORTERIX__
 #EXTINF:-1 group-title="RAW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-RRD2cH-RFhM5e52XB-iJ5_ff7adMdzgbKSQjW2Jg1PgHJlxx2sK529E&s=10",Eco TV
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:-1 group-title="RAW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Gshxfy4k4baqOXLq16vgiN4miwETAerEJWFr2TQ4Bg&s=10",Quantica TV
@@ -203,8 +194,8 @@ https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
 https://acentotv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 group-title="http://190.128.214.97:64333/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWK78HBKIyWKQ_0RyohjTANJRTt5gYwVsD6bigNkumCw&s=10",Aunar
 http://190.128.214.97:64333/play/a057/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDgKl2GrSy5E8e2waoWEZYmkuBJcSTdBjeZnMryBJxyg&s=10",Bayres tv - 41.1TV - G de Laferrere - GB Gran Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARGBG_DE___41.1BAYRESTV__
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDgKl2GrSy5E8e2waoWEZYmkuBJcSTdBjeZnMryBJxyg&s=10" group-title="SerenoTV",Bayres TV - 41.1TV - G de Laferrere
+https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w2016146377.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qh0qMSxIwAhmIEBHaH8vQJZI3N_5j6W5yYGNug1UKA&s=10",Ciudad Magica
 https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvcB4xD9Yet--YvlPxlpNdMf8tyF-3O624pBpYN49qRA&s=10",Canal 9 Resistencia
@@ -213,8 +204,8 @@ http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl1Fc8tfvdFQBTOkJXROgxpXCTLooW4EbwCNP4ngATTg&s=10",CampusTV
 https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLu5Nx1fTsGPykdbKoDQpuGSkvBxMVPwoYRjEwWcXzw&s=10",Caras TV -  CABA TV Web - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBCARASTV___
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLu5Nx1fTsGPykdbKoDQpuGSkvBxMVPwoYRjEwWcXzw&s=10" group-title="http://190.61.90.17:40000/playlist.m3u",Caras TV
+http://190.61.90.17:40000/play/a043/index.m3u8
 #EXTINF:-1 group-title="languagues_spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6cA4g0dgWONdxgq9_NzHj_TG2G_vK3N1chSQiwkObDA&s",DW Espanol (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 group-title="http://181.224.255.210:8001/playlist.m3u?hls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzXOtfkl0cosQ1BeV3TgLgHVk_WsDZXfpCOIq2ITlU0w&s",El Gourmet HD
@@ -223,20 +214,20 @@ http://181.224.255.210:8001/play/a0ex/index.m3u8?hls
 http://190.108.83.69:8000/play/a02h/index.m3u8
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSHyDHFgrH6QQTa2J33Oit8rTNzkA4pj0n5K3n59phFg&s=10",Food Network
 http://190.108.83.69:8000/play/a08e/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF8BKB8YnHk8O7GedfeFENUgiBKo8a0XVvjVm8Jt0ZBQ&s=10",Metro 12 TV - 18.1TV - San M de Tucumán - TU Tucuman
-https://radiosargentina.com.ar/php/artvDI.php?id=ARTUSAN_M__18.1METRO12TV_
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz8gXkN6f1TS0JODXEIQajWHVsAw_mJIzdZivYbPWKqQ&s=10",NEO TV - 16.1TV - Florencio Varela - GB Gran Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARGBFLORE__16.1NEOTV_____
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",NET TV - 27.2TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__27.2NETTV_____
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF8BKB8YnHk8O7GedfeFENUgiBKo8a0XVvjVm8Jt0ZBQ&s=10" group-title="SerenoTV",Metro 12 TV - 18.1TV - San M de Tucumán
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz8gXkN6f1TS0JODXEIQajWHVsAw_mJIzdZivYbPWKqQ&s=10" group-title="Serenotv",NEO TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="SerenoTV",NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=914765155
 #EXTINF:-1 group-title="RAW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPg1OiMMrXX6EdXXBM4X_3-ZB0lynbYMbFTFb3hxMD-w&s=10",Power Max TV
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 #EXTINF:-1 group-title="http://190.128.214.97:64333/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrNCrMZWU4pbMOYND8W6sK8Bikw1cGHKpvdqEETeRWZQ&s=10",Tec
 http://190.128.214.97:64333/play/a02t/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZhm-Wk7WJpf0_sS7QhdPN06Kx8cYMIPJk5SN1UxdAgw&s=10",Telemax - 26.3TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__26.3TELEMAX___
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-PWh_pwaWxvudhWlqnFHSzvB5SnDxiLyJ67KGEtUVGQ&s",Urban - 98.5 TV - Pehuajó - BA Buenos Aires
-https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPEHUA_98.5_LRP926URBA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZhm-Wk7WJpf0_sS7QhdPN06Kx8cYMIPJk5SN1UxdAgw&s=10" group-title="SerenoTV",Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8?uid=41c7c35aa16968694c767ab1e4927418
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-PWh_pwaWxvudhWlqnFHSzvB5SnDxiLyJ67KGEtUVGQ&s" group-title="UrbanWEB",Urban - 98.5 TV - Pehuajó - BA Buenos Aires
+https://live.tvip.ar:3679/live/urban985live.m3u8
 #EXTINF:-1 group-title="COUNTRIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZiUn1x2wzzTA4NobT6zJGcO8h1LRpKA2Fvmp4EwF4mA&s=10",Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 #EXTINF:-1 group-title="OPC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/CaracolTV2025.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",Caracol HD
@@ -287,8 +278,8 @@ http://205.235.6.29:8000/play/a0yi/index.m3u8?hls
 http://181.224.255.210:8001/play/a0rc/index.m3u8?hls
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr1Df97hCTOD0f3eK3HvRxgVHIiD-_F6T6eqTIE8NnMw&s=10",Clan
 https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa6iOIqP4DfzRmoqQsnpOb-cvKIltjxaKfHGGatZng3w&s=10",Galicia TV - CTV - CABA TV Cable - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CGALICIATV_
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa6iOIqP4DfzRmoqQsnpOb-cvKIltjxaKfHGGatZng3w&s=10" group-title="SerenoTV",Galicia TV
+https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsbIvt9sU69QBYGqnPqvGvCSn9BZOkBrbt95Sp5evz3Q&s=10",TVE Internacional America HD
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4ohPDhp7Fd14aeZGRvOC12kPQTSyuxwxN804668BYLA&s=10",TVE Star HD
@@ -371,8 +362,6 @@ http://190.108.83.69:8000/play/a02e/index.m3u8
 http://190.108.83.69:8000/play/a02y/index.m3u8
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://play-lh.googleusercontent.com/PIFNu8-BOM0gEIZxpGXQBQ-_xS1HiQItHCSd9DuoEACRV2paI3Xwq9DG6dTILCUqKrkZRMmENfgLr4d3zSGa",AMC HD
 http://190.108.83.69:8000/play/a033/index.m3u8
-#EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://rbr.com/wp-content/uploads/amc-logo.jpg",AMC - CTV - CABA TV Cable - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CAMC_______
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_7URsgoiZNZYbFEQaetKaQg4D_H2rdiJVKatVzhCKeQ&s=10",AMC SERIES
 http://190.108.83.69:8000/play/a00p/index.m3u8
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1OE7hr0XCFqBNBRvnLTVB1x8VUa5ur0hVIVnFNDors2At_3PfF2hpCRfr&s=10",AXN HD
