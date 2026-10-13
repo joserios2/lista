@@ -298,7 +298,7 @@ http://181.119.215.61:8000/play/a0gq/index.m3u8?hls
 http://190.108.83.69:8000/play/a044/index.m3u8
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTDqf_k5EiS7IaRAdm2DolEzJIKH79urcrUg532j4ypQ&s=10",Discovery Home & Health HD
 http://190.108.83.69:8000/play/a08k/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKpdmPTzBAlKxdEV568Z4fawmmSSn0mrOu7GnWsL5VqLzm1b_P1JkAsF4&s=10",Discovery Science
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQRjqQcgaymhT6BjPIY5p8VH2_d0MCgv2wPUOLkIXxFQn8E2sjEa9HMMs&s=10",Discovery Science
 http://190.108.83.69:8000/play/a02b/index.m3u8
 #EXTINF:-1 group-title="Discovery Theater HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnuWj8-pdD7lSxBTaPwRXp7JDpDvLHEiTT-aSFKt15_A&s=10",Discovery Theater HD
 http://190.108.83.69:8000/play/a03e/index.m3u8
