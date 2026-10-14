@@ -1,7 +1,5 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwB9bdYWra8uujtvONHmwlkbmqiGPuHC4dyFuTLtRP2w&s=10" group-title="IPTVappArgentina",A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
-#EXTINF:-1 group-title="http://190.128.214.97:64333/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO1PZirjBnkgQr8KEjITxp7FlGUW7vtIaZEaTZD0tA8Q&s=10",AR12
-http://190.128.214.97:64333/play/a01y/index.m3u8
 #EXTINF:-1 group-title="XUPERARLIST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaKPBExyZFEjTbVM6ycMEoglKabjfpN7D3PxLisC1V5Q&s=10",C5N
 http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/c5n.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCXhwSjUV8HkXJhbvlzTjLTTqmZYHla-UA7CtxJ2OTiQ&s=10" group-title="RAW",Canal 26
@@ -10,12 +8,16 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 http://181.115.239.66:8000/play/a02r/index.m3u8
 #EXTINF:-1 group-title="redworldpro8880" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/La_Naci%C3%B3n_%2B.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",LN+ | ARG
 http://redworld.pro:8880/zmqzveazwu/BG8G38evFkyP/490466
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuCQKjGYsDfS3Fqd6fDmOsClRt9cSGQwje7vMMSiL1qA&s",+Perfil
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__25.6CANAL-E___
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRhntABKfea-gy7K1MT2U7nM713yOXHgIILQmSmfhlAg&s=10" group-title="XUPERARLIST",TN Todo Noticias
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHHJmJxNJAIWXnyPzYS6-x_-Vt_sib67Dgda6dOmPww&s",CNN Espanol
 http://190.108.83.69:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="Varias opc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tOB7voRCASshCYahP4XcGGGBsPwo7Gth_NIkM6WdLQ&s=10",CNN en Español (Internacional / América)
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6cA4g0dgWONdxgq9_NzHj_TG2G_vK3N1chSQiwkObDA&s",DW Español - CTV - CABA
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CDWESPANOL_
 #EXTINF:-1 group-title="Varias OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEaJ99bdXDnXAci0eK_qbFto9jthrDu3HTku_Zltx4pQ&s",RT Noticias (HD)
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT3lvIMgqSrHVu_-JdlXxGEoZ2E65MQ81N87xFTZuSdw&s=10" group-title="SerenoTV",Telesur
@@ -30,6 +32,8 @@ http://181.209.80.115:8000/play/encuentro
 http://181.115.239.66:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdCUMTfuGHX54VegTxUROy7PVEkFmfeRQkoxQDB8i-tQ&s=10",America TV
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdCUMTfuGHX54VegTxUROy7PVEkFmfeRQkoxQDB8i-tQ&s=10",America TV  CABA TV TDA 36.1
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__36.1LS86AMERIC
 #EXTINF:-1 group-title="http://181.115.239.66:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQedZzmtuh-Nc-Pld2Edq3zaNSiIijZe_I2Fz_lmA7IA&s",El Nueve
 http://181.115.239.66:8000/play/a00k/index.m3u8
 #EXTINF:-1 group-title="alltvmx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",Telefe HD
@@ -182,6 +186,8 @@ https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8?uid=e300b
 https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
 #EXTINF:-1 group-title="RAW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqmYxbkk-89gphLhimk23jn-F7qoq4s7_3uL-MySExQ&s=10",LA 100 AR
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",Vorterix - 92.1 TV - CABA
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_92.1_VORTERIX__
 #EXTINF:-1 group-title="RAW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-RRD2cH-RFhM5e52XB-iJ5_ff7adMdzgbKSQjW2Jg1PgHJlxx2sK529E&s=10",Eco TV
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:-1 group-title="RAW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Gshxfy4k4baqOXLq16vgiN4miwETAerEJWFr2TQ4Bg&s=10",Quantica TV
@@ -192,8 +198,6 @@ https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQref7_a2nLQg0RltkCnkFgE1u51jzkKq4x4gJr6Xa3jg&s=10",Acento TV
 https://acentotv01.streamprolive.com/hls/live.m3u8
-#EXTINF:-1 group-title="http://190.128.214.97:64333/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWK78HBKIyWKQ_0RyohjTANJRTt5gYwVsD6bigNkumCw&s=10",Aunar
-http://190.128.214.97:64333/play/a057/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDgKl2GrSy5E8e2waoWEZYmkuBJcSTdBjeZnMryBJxyg&s=10" group-title="SerenoTV",Bayres TV - 41.1TV - G de Laferrere
 https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w2016146377.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qh0qMSxIwAhmIEBHaH8vQJZI3N_5j6W5yYGNug1UKA&s=10",Ciudad Magica
@@ -222,8 +226,6 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 group-title="RAW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPg1OiMMrXX6EdXXBM4X_3-ZB0lynbYMbFTFb3hxMD-w&s=10",Power Max TV
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
-#EXTINF:-1 group-title="http://190.128.214.97:64333/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrNCrMZWU4pbMOYND8W6sK8Bikw1cGHKpvdqEETeRWZQ&s=10",Tec
-http://190.128.214.97:64333/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZhm-Wk7WJpf0_sS7QhdPN06Kx8cYMIPJk5SN1UxdAgw&s=10" group-title="SerenoTV",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8?uid=41c7c35aa16968694c767ab1e4927418
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-PWh_pwaWxvudhWlqnFHSzvB5SnDxiLyJ67KGEtUVGQ&s" group-title="UrbanWEB",Urban - 98.5 TV - Pehuajó - BA Buenos Aires
@@ -286,6 +288,8 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqp3w_aAEHpu0QiAZk5ERwfptgpHAy_NThNeLSNbO0sg&s=10",La Red
 http://200.59.191.177:8000/play/a0o4/index.m3u8?hls
+#EXTINF:-1 group-title="http://152.231.29.139:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqp3w_aAEHpu0QiAZk5ERwfptgpHAy_NThNeLSNbO0sg&s=10",La Red HD
+http://152.231.29.139:8000/play/a0e2/index.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWIBxPqAP8irG0c9nX279CZ2-39pSWJRvF6NEVrmLlKA&s=10",Valle Nuevo TV
 https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvdd-1yhCBzOwyHJFl_OsQdxuM28p-7gTu4vtuCBotjg&s=10",WTV Canal 20
@@ -506,4 +510,3 @@ http://190.108.83.69:8000/play/a038/index.m3u8
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 #EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaWdl8PApBzWkMIzKJuDZW7-9Nq-z3FLWe04g1Vha3jg&s=10",Todo Pasión
 https://d3ng12uij4vzn7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zxw9tagebrg7m/TodoPasion_ES.m3u8
-
