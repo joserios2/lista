@@ -74,7 +74,7 @@ http://191.97.49.82:8001/play/a002/index.m3u8
 http://190.61.42.218:9000/play/a062/index.m3u8
 #EXTINF:-1 group-title="https://raw.githubusercontent.com/martinez-x25/suprem3u-argentina/refs/heads/main/lista.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNLkG_oxTSYHdJERZHHp3PgmQRdLm21emaYprzpT2DA&s=10",ESPN 7 | ARG
 http://181.78.12.119:16123/play/ch20/index.m3u8
-#EXTINF:-1 group-title="COUNTRIES AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8qh3p5D7gw4DVXBaH0lDGblk-AtT3qInhVRieUHknGgMh00uuAU196JCk&s=10",Espn Extra | ARG
+#EXTINF:-1 group-title="COUNTRIES AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8qh3p5D7gw4DVXBaH0lDGblk-AtT3qInhVRieUHknGgMh00uuAU196JCk&s=10",ESPN Extra | ARG
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?
 #EXTINF:-1 group-title="https://iptv-org.github.io/iptv/index.m3u" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdc0JzYn3IyERyTif4dkcFyQcvGdBcM5MwDf1aZlcmQvTa-qSO",ESPN Premium HD | ARG
 http://190.128.214.97:64333/play/a02i/index.m3u8
@@ -96,10 +96,10 @@ http://190.108.83.69:8000/play/a02w/index.m3u8
 http://190.108.83.69:8000/play/a049/index.m3u8
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://cdn.prod.website-files.com/60467fdad665324c974b586c/69d7f4651b0dbc426b27e968_espnpremiumcl.png",ESPN Premium HD
 http://190.108.83.69:8000/play/a03w/index.m3u8
-#EXTINF:-1 group-title="COUNTRIES AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Lze_OCxuCe2PvbGXF2jPs9rg66Ug7SSUMAz4C1qPAw&s=10",FIFA+
-https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 #EXTINF:-1 group-title="INDEX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl0tsCpqnEbo3GWDLzsSNbnSA2OojL7ISuZRX_O0-khxY5bPZI",ESPN U HD
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1 group-title="COUNTRIES AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Lze_OCxuCe2PvbGXF2jPs9rg66Ug7SSUMAz4C1qPAw&s=10",FIFA+
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 #EXTINF:-1 group-title="https://raw.githubusercontent.com/martinez-x25/suprem3u-argentina/refs/heads/main/lista.m3u" tvg-logo="https://yt3.googleusercontent.com/VRbBwrn1T7X5a-FG8-mqOZkbTjF_-o3ZggkmiapKaiihtox2Ck7zMYg2zL7M_WJH5U9Qab-m=s900-c-k-c0x00ffffff-no-rj",Fox Sports
 http://181.209.80.115:8000/play/fox_sports_hd
 #EXTINF:-1 group-title="https://raw.githubusercontent.com/martinez-x25/suprem3u-argentina/refs/heads/main/lista.m3u" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png",Fox Sports 2
@@ -108,16 +108,6 @@ http://45.188.229.33:8000/play/a1ae/index.m3u8?hls
 http://138.59.227.20:8000/play/a06y/index.m3u8?hls
 #EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjpUaDWIyAHLNwRCiT2ygW9iOutenItchDpHoX95qDBOcZL4Qm8dVN2884&s=10",FOX Sport Premium
 http://190.61.101.11:7050/play/a08u/index.m3u8?hls
-#EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9g5Um4UCQYHsP8P3ys2PO2ZFW0GB3YAQlt5i8xHAKAQ&s=10",UFC (EE.UU.)
-https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u?hls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPjuFFCk0E4V3AftCcncbW-t8o0PxJn_cDqPJ5--gAkQ&s=10",Claro Sports 1 HD
-http://181.119.215.61:8000/play/a07o/index.m3u8?hls
-#EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u?hls" tvg-logo="https://play-lh.googleusercontent.com/DOWFo0eUL9CjEmWChmXMAKwtBil_-69zKOFBLJuQIPmc0QjyrkfCVwiB2e5G1iMV92SDFDNSfuGLcX4AB0z-Rg",Claro Sports 2 HD
-http://181.119.215.61:8000/play/a07p/index.m3u8?hls
-#EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u?hls" tvg-logo="https://play-lh.googleusercontent.com/DOWFo0eUL9CjEmWChmXMAKwtBil_-69zKOFBLJuQIPmc0QjyrkfCVwiB2e5G1iMV92SDFDNSfuGLcX4AB0z-Rg",Claro Sports 3 HD
-http://181.119.215.61:8000/play/a07i/index.m3u8?hls
-#EXTINF:-1 group-title="http://190.108.83.69:8000/play/a07o/index.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3NgCckIAknPx8UgsOOuAeXAhUnG5vuTqU-yv2i0P-Gw&s=10",Movistar Deportes
-http://190.108.83.69:8000/play/a07o/index.m3u8
 #EXTINF:-1 group-title="OPC" tvg-logo="https://yt3.googleusercontent.com/UgLvAWxOHY3GGeUgIy-5kzA0Clkfa36eX4lEokaROrSxr8g6Vh9anGiDb3oxb_DD3-p4tnXD=s900-c-k-c0x00ffffff-no-rj",TNT Sports
 http://205.235.6.29:8000/play/a0xa/index.m3u8?hls
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://yt3.googleusercontent.com/UgLvAWxOHY3GGeUgIy-5kzA0Clkfa36eX4lEokaROrSxr8g6Vh9anGiDb3oxb_DD3-p4tnXD=s900-c-k-c0x00ffffff-no-rj",TNT Sports Premiun HD
@@ -132,6 +122,16 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcB199riTmAGYKcUvwBYib0hGC9C_1ayOwhls1O8-3A&s=10",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9g5Um4UCQYHsP8P3ys2PO2ZFW0GB3YAQlt5i8xHAKAQ&s=10",UFC (EE.UU.)
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u?hls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPjuFFCk0E4V3AftCcncbW-t8o0PxJn_cDqPJ5--gAkQ&s=10",Claro Sports 1 HD
+http://181.119.215.61:8000/play/a07o/index.m3u8?hls
+#EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u?hls" tvg-logo="https://play-lh.googleusercontent.com/DOWFo0eUL9CjEmWChmXMAKwtBil_-69zKOFBLJuQIPmc0QjyrkfCVwiB2e5G1iMV92SDFDNSfuGLcX4AB0z-Rg",Claro Sports 2 HD
+http://181.119.215.61:8000/play/a07p/index.m3u8?hls
+#EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u?hls" tvg-logo="https://play-lh.googleusercontent.com/DOWFo0eUL9CjEmWChmXMAKwtBil_-69zKOFBLJuQIPmc0QjyrkfCVwiB2e5G1iMV92SDFDNSfuGLcX4AB0z-Rg",Claro Sports 3 HD
+http://181.119.215.61:8000/play/a07i/index.m3u8?hls
+#EXTINF:-1 group-title="http://190.108.83.69:8000/play/a07o/index.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3NgCckIAknPx8UgsOOuAeXAhUnG5vuTqU-yv2i0P-Gw&s=10",Movistar Deportes
+http://190.108.83.69:8000/play/a07o/index.m3u8
 #EXTINF:-1 group-title="http://181.115.239.66:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwGc6k5EKoPecmI1cDZfqcutyxmxvNIREBzzXl1I_1Ag&s=10",Quiero Musica
 http://181.115.239.66:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFmkI3WDsjLK_Hr6MzxB3S9lZH1pmA9TEEcQNO6lD4ag&s=10",Canal de la Musica - CTV - CABA TV Cable - CD Cd Aut Bs As
