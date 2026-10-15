@@ -74,6 +74,8 @@ http://191.97.49.82:8001/play/a002/index.m3u8
 http://190.61.42.218:9000/play/a062/index.m3u8
 #EXTINF:-1 group-title="https://raw.githubusercontent.com/martinez-x25/suprem3u-argentina/refs/heads/main/lista.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNLkG_oxTSYHdJERZHHp3PgmQRdLm21emaYprzpT2DA&s=10",ESPN 7 | ARG
 http://181.78.12.119:16123/play/ch20/index.m3u8
+#EXTINF:-1 group-title="COUNTRIES AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8qh3p5D7gw4DVXBaH0lDGblk-AtT3qInhVRieUHknGgMh00uuAU196JCk&s=10",Espn Extra | ARG
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?
 #EXTINF:-1 group-title="https://iptv-org.github.io/iptv/index.m3u" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdc0JzYn3IyERyTif4dkcFyQcvGdBcM5MwDf1aZlcmQvTa-qSO",ESPN Premium HD | ARG
 http://190.128.214.97:64333/play/a02i/index.m3u8
 #EXTINF:-1 group-title="http://138.59.227.20:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdc0JzYn3IyERyTif4dkcFyQcvGdBcM5MwDf1aZlcmQvTa-qSO",ESPN Premium HD | AR
@@ -94,7 +96,9 @@ http://190.108.83.69:8000/play/a02w/index.m3u8
 http://190.108.83.69:8000/play/a049/index.m3u8
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://cdn.prod.website-files.com/60467fdad665324c974b586c/69d7f4651b0dbc426b27e968_espnpremiumcl.png",ESPN Premium HD
 http://190.108.83.69:8000/play/a03w/index.m3u8
-#EXTINF:-1 group-title="https://iptv-org.github.io/iptv/index.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl0tsCpqnEbo3GWDLzsSNbnSA2OojL7ISuZRX_O0-khxY5bPZI",ESPN U HD
+#EXTINF:-1 group-title="COUNTRIES AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Lze_OCxuCe2PvbGXF2jPs9rg66Ug7SSUMAz4C1qPAw&s=10",FIFA+
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:-1 group-title="INDEX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl0tsCpqnEbo3GWDLzsSNbnSA2OojL7ISuZRX_O0-khxY5bPZI",ESPN U HD
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 group-title="https://raw.githubusercontent.com/martinez-x25/suprem3u-argentina/refs/heads/main/lista.m3u" tvg-logo="https://yt3.googleusercontent.com/VRbBwrn1T7X5a-FG8-mqOZkbTjF_-o3ZggkmiapKaiihtox2Ck7zMYg2zL7M_WJH5U9Qab-m=s900-c-k-c0x00ffffff-no-rj",Fox Sports
 http://181.209.80.115:8000/play/fox_sports_hd
@@ -124,7 +128,7 @@ http://138.59.227.20:8000/play/a06x/index.m3u8
 http://190.128.214.97:64333/play/a01l/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_FQVW411aP95zkWHuJfIm4hniDnarZm1jAtzKa0rlJg&s" group-title="Index",TyC Sports Fan
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJGjx9Bv2YfWxFj0vQt49dFZG1d-z-N7G6Y3ZTvxb-Bg&s=10",TyC Sports USA
+#EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOB3NNMDhxQZoSufMPOFle6QRJFWk7TmizjcpkbmTjPA&s=10",TyC Sports USA
 http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcB199riTmAGYKcUvwBYib0hGC9C_1ayOwhls1O8-3A&s=10",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
@@ -188,6 +192,8 @@ https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",Vorterix - 92.1 TV - CABA
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_92.1_VORTERIX__
+#EXTINF:-1 group-title="ttp://190.128.214.97:64333/playist.m3u" tvg-logo="https://play-lh.googleusercontent.com/EzHHPHdDO7JBSynQQI37kj6n_pUrY-4xD-86PWSGKYc58Ky8N5R8Xtoozg2CtxTl9yNcnEchoLdL5Ad6ubULZ4Q",Rock & Pop
+http://190.128.214.97:64333/play/a032/index.m3u8
 #EXTINF:-1 group-title="RAW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-RRD2cH-RFhM5e52XB-iJ5_ff7adMdzgbKSQjW2Jg1PgHJlxx2sK529E&s=10",Eco TV
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:-1 group-title="RAW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Gshxfy4k4baqOXLq16vgiN4miwETAerEJWFr2TQ4Bg&s=10",Quantica TV
@@ -204,12 +210,16 @@ https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w2016146377.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvcB4xD9Yet--YvlPxlpNdMf8tyF-3O624pBpYN49qRA&s=10",Canal 9 Resistencia
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+#EXTINF:-1 group-title="COUNTRIES AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaXiIfuygaGTUFtlc0DMpNahzFXkwUOBAUtFfD67w4NQ&s=10",Canal Luz
+https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
 #EXTINF:-1 group-title="COUNTRIES AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIW3ZFKd76EfVtpR9Klkf_a0UPzk7x2m5cCH3Rg5dNOA&s=10",Canal TDC
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl1Fc8tfvdFQBTOkJXROgxpXCTLooW4EbwCNP4ngATTg&s=10",CampusTV
 https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLu5Nx1fTsGPykdbKoDQpuGSkvBxMVPwoYRjEwWcXzw&s=10" group-title="http://190.61.90.17:40000/playlist.m3u",Caras TV
 http://190.61.90.17:40000/play/a043/index.m3u8
+#EXTINF:-1 group-title="COUNTRIES AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTScCsoaA389FCY4l4K5erv5yY0xUXR_G2L2qhWR8M8Pg&s=10",Cosmos TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 group-title="languagues_spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6cA4g0dgWONdxgq9_NzHj_TG2G_vK3N1chSQiwkObDA&s",DW Espanol (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 group-title="http://181.224.255.210:8001/playlist.m3u?hls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzXOtfkl0cosQ1BeV3TgLgHVk_WsDZXfpCOIq2ITlU0w&s",El Gourmet HD
@@ -300,8 +310,12 @@ https://servilive.com:3199/live/amazoniatvlive.m3u8
 http://181.119.215.61:8000/play/a0gq/index.m3u8?hls
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhZ4jGObqluzNhwWCZ67KTZdaz7luJcacMfS1bFE3mg&s",Discovery Channel  HD
 http://190.108.83.69:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="http://200.115.120.1:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzFRfDIa30JQiHibKOdK0BZTnfbJgtqNj5a-kQjL7N5A&s=10",Discovery Family
+http://200.115.120.1:8000/play/ca053/index.m3u8
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTDqf_k5EiS7IaRAdm2DolEzJIKH79urcrUg532j4ypQ&s=10",Discovery Home & Health HD
 http://190.108.83.69:8000/play/a08k/index.m3u8
+#EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCZ__5yFkpf_ZIDzxQ7oWmHiEiY_O9afmwm7CCUT_MoA&s=10",ID HD
+http://190.108.83.69:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQRjqQcgaymhT6BjPIY5p8VH2_d0MCgv2wPUOLkIXxFQn8E2sjEa9HMMs&s=10",Discovery Science
 http://190.108.83.69:8000/play/a02b/index.m3u8
 #EXTINF:-1 group-title="Discovery Theater HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnuWj8-pdD7lSxBTaPwRXp7JDpDvLHEiTT-aSFKt15_A&s=10",Discovery Theater HD
@@ -318,8 +332,6 @@ http://190.108.83.69:8000/play/a045/index.m3u8
 http://190.108.83.69:8000/play/a00j/index.m3u8
 #EXTINF:-1 group-title="https://www.apsattv.com/vidaa.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEEgE6uXwOXhLwzqtRmaSu_a-uaPmy-oO5ozLbLlGsIQ&s=10",Historia & Vida
 https://amg01821-amg01821c22-xiaomi-international-4608.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCZ__5yFkpf_ZIDzxQ7oWmHiEiY_O9afmwm7CCUT_MoA&s=10",ID HD
-http://190.108.83.69:8000/play/a04d/index.m3u8
 #EXTINF:-1 group-title="LISTA PARA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJOI2aH2jqWCCxnG017N9FOmZh08v4CdJPF9d9Ba2mFw&s",LOVE NATURE
 http://181.224.200.5:2277/play/a036/index.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX8Ace7z3txZmBFR9mhEC5wdUUGAJsLUQtfmMAzJmKTQ&s=10",Love Nature (1080p)
