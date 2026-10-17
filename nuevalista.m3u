@@ -2,12 +2,16 @@
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #EXTINF:-1 group-title="XUPERARLIST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaKPBExyZFEjTbVM6ycMEoglKabjfpN7D3PxLisC1V5Q&s=10",C5N
 http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/c5n.playlist.m3u8
+#EXTINF:-1 group-title="redworld.pro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQlnXprG8KiK1xxZt0E_CVt036x9_lOQ6QWRkaqo7zHQ&s=10",C5N HD
+http://redworld.pro:8880/zmqzveazwu/BG8G38evFkyP/490448
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCXhwSjUV8HkXJhbvlzTjLTTqmZYHla-UA7CtxJ2OTiQ&s=10" group-title="RAW",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 group-title="http://181.115.239.66:8000.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtqlTWh4_FI6Jc1ajr0pcqRHkHbYeOdjqwITiJIZFj4g&s=10",Cronica TV
 http://181.115.239.66:8000/play/a02r/index.m3u8
 #EXTINF:-1 group-title="LISTACREADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/La_Naci%C3%B3n_%2B.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",LN+
 http://181.209.80.115:8000/play/la_nacion_tv
+#EXTINF:-1 group-title="redworld.pro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXPJ0WQxAFWhA13fIY6Gt5wLUyLo2FLruBMWBuS9Vv1g&s=10",LN+ HD
+http://redworld.pro:8880/zmqzveazwu/BG8G38evFkyP/490466
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuCQKjGYsDfS3Fqd6fDmOsClRt9cSGQwje7vMMSiL1qA&s",+Perfil
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__25.6CANAL-E___
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRhntABKfea-gy7K1MT2U7nM713yOXHgIILQmSmfhlAg&s=10" group-title="XUPERARLIST",TN Todo Noticias
@@ -112,8 +116,10 @@ http://138.59.227.20:8000/play/a06y/index.m3u8?hls
 http://190.61.101.11:7050/play/a08u/index.m3u8?hls
 #EXTINF:-1 group-title="OPC" tvg-logo="https://yt3.googleusercontent.com/UgLvAWxOHY3GGeUgIy-5kzA0Clkfa36eX4lEokaROrSxr8g6Vh9anGiDb3oxb_DD3-p4tnXD=s900-c-k-c0x00ffffff-no-rj",TNT Sports
 http://205.235.6.29:8000/play/a0xa/index.m3u8?hls
-#EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://yt3.googleusercontent.com/UgLvAWxOHY3GGeUgIy-5kzA0Clkfa36eX4lEokaROrSxr8g6Vh9anGiDb3oxb_DD3-p4tnXD=s900-c-k-c0x00ffffff-no-rj",TNT Sports Premiun HD
+#EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz6CLXuCuDwpMdP-fVVjAdb83QhMZJbRKFv8dSkE6cPw&s=10",TNT Sports Premiun HD
 http://190.108.83.69:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="redworld.pro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMt_Bv81vx5ya7DrEQIXLPiLFkhmyqjPW9OBvXduvHvw&s",TNT Sports Premiun HD | ARG
+http://redworld.pro:8880/zmqzveazwu/BG8G38evFkyP/327919
 #EXTINF:-1 group-title="http://138.59.227.20:8000/playlist.m3u8" tvg-logo="https://yt3.googleusercontent.com/VkAgCIDmeBeTHRQhvzF4Pfqu-JbLy2WWvcwBB_qVwhKp-I30toccvyxlGJlbFpcJscwCQ1HwAg=s900-c-k-c0x00ffffff-no-rj",TyC Sports AR HD
 http://138.59.227.20:8000/play/a06x/index.m3u8
 #EXTINF:-1 group-title="http://190.128.214.97:64333/playlist.m3u8" tvg-logo="https://yt3.googleusercontent.com/VkAgCIDmeBeTHRQhvzF4Pfqu-JbLy2WWvcwBB_qVwhKp-I30toccvyxlGJlbFpcJscwCQ1HwAg=s900-c-k-c0x00ffffff-no-rj",TyC Sports HD
