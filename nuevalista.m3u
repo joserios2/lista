@@ -64,6 +64,8 @@ http://138.59.227.20:8000/play/a07f?hls
 http://191.97.59.33:8000/play/a09t/index.m3u8
 #EXTINF:-1 group-title="https://raw.githubusercontent.com/martinez-x25/suprem3u-argentina/refs/heads/main/lista.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAGZmmzButUG4LcEmLj026MlSWMZKhQ2WmHjg4cE6q-A&s=10",DSports 2 HD
 http://45.134.141.161:2200/ARG/DTV_SP2/index.m3u8
+#EXTINF:-1 group-title="BUFALO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNo2vE-5rQyOdqOp4Tj7eRo48s_TtXlA0ZRgwnOn9c1Ax_sAv6Vu1JaJ4S&s=10",Dsports+
+https://s2.bufaloweb.com/bufalo11/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="http://181.115.239.66:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCZfgMoplo_YYLEgNcmJkPRoossAZUtz3n5MkEo-R3A&s=10",ESPN | ARG
 http://181.115.239.66:8000/play/a00n/index.m3u8
 #EXTINF:-1 group-title="https://raw.githubusercontent.com/martinez-x25/suprem3u-argentina/refs/heads/main/lista.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZOZnAWNAL1L-TUMhZ2bM4lF_fx7pIrSXkJyoIWJZFGA&s=10",ESPN 2 | ARG
