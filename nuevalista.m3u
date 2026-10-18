@@ -41,7 +41,7 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__36.1LS86AMERIC
 #EXTINF:-1 group-title="http://181.115.239.66:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQedZzmtuh-Nc-Pld2Edq3zaNSiIijZe_I2Fz_lmA7IA&s",El Nueve
 http://181.115.239.66:8000/play/a00k?hls
 #EXTINF:-1 group-title="alltvmx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",Telefe HD
-http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTINF:-1 group-title="RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",Telefe BsAs
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTINF:-1 group-title="LISTA RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Telefe_Internacional_%282018%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",Telefe Internacional
