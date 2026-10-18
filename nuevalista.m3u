@@ -66,6 +66,8 @@ http://138.59.227.20:8000/play/a07f/index.m3u8
 http://191.97.59.33:8000/play/a09t/index.m3u8
 #EXTINF:-1 group-title="https://raw.githubusercontent.com/martinez-x25/suprem3u-argentina/refs/heads/main/lista.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAGZmmzButUG4LcEmLj026MlSWMZKhQ2WmHjg4cE6q-A&s=10",DSports 2 HD
 http://45.134.141.161:2200/ARG/DTV_SP2/index.m3u8
+#EXTINF:-1 group-title="BUFALO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNo2vE-5rQyOdqOp4Tj7eRo48s_TtXlA0ZRgwnOn9c1Ax_sAv6Vu1JaJ4S&s=10",Dsports+
+https://s2.bufaloweb.com/bufalo11/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="http://181.115.239.66:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCZfgMoplo_YYLEgNcmJkPRoossAZUtz3n5MkEo-R3A&s=10",ESPN | ARG
 http://181.115.239.66:8000/play/a00n/index.m3u8
 #EXTINF:-1 group-title="https://raw.githubusercontent.com/martinez-x25/suprem3u-argentina/refs/heads/main/lista.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZOZnAWNAL1L-TUMhZ2bM4lF_fx7pIrSXkJyoIWJZFGA&s=10",ESPN 2 | ARG
@@ -140,48 +142,44 @@ http://181.119.215.61:8000/play/a07p/index.m3u8?hls
 http://181.119.215.61:8000/play/a07i/index.m3u8?hls
 #EXTINF:-1 group-title="http://190.108.83.69:8000/play/a07o/index.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3NgCckIAknPx8UgsOOuAeXAhUnG5vuTqU-yv2i0P-Gw&s=10",Movistar Deportes
 http://190.108.83.69:8000/play/a07o/index.m3u8
-#EXTINF:-1 group-title="http://181.115.239.66:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwGc6k5EKoPecmI1cDZfqcutyxmxvNIREBzzXl1I_1Ag&s=10",Quiero Musica
-http://181.115.239.66:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFmkI3WDsjLK_Hr6MzxB3S9lZH1pmA9TEEcQNO6lD4ag&s=10",Canal de la Musica - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CCANALDELAM
 #EXTINF:-1 group-title="SerenoTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQG3oy5KBzh-rG-WgBTQ1bjMtk0NjR2WiJiKGnvf9Hcw&s=10",Musictop | AR
 http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQG3oy5KBzh-rG-WgBTQ1bjMtk0NjR2WiJiKGnvf9Hcw&s=10" group-title="http://190.128.214.97:64333/playlist.m3u",Musictop
 http://190.128.214.97:64333/play/a06o/index.m3u8
-#EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u?hls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3osCr_6urBwh4J6-pBrzXPsGpvFXlbq3o8NzEGyMokmspfEdGwiPlh19b&s=10",Claro Musica
-http://181.119.215.61:8000/play/a07z/index.m3u8?hls
-#EXTINF:-1 group-title="INDEX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThw3cgUjrL1LerGrfpfgEece8OUOKve6cGNRO9m-PGzA&s=10",Telehit Musica (1080p)
-http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8
-#EXTINF:-1 group-title="INDEX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjMYOsEbRpRxi6d1-Th0vI5ooXp_M9LjbOE3ZdHxHRlg&s",TeleHit
-http://190.61.47.54:8000/play/a029/index.m3u8
-#EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxd1jaG1JI3vbVoEv5OkL7_MShCw4_S0eVpvpiV6v5S_Y1r1NDoqou4Tg&s=10",Trace Latina (Internacional)
-https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
-#EXTINF:-1 group-title="LEGUAGES" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic.png",Totalmusic (1080p)
+#EXTINF:-1 group-title="http://181.115.239.66:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwGc6k5EKoPecmI1cDZfqcutyxmxvNIREBzzXl1I_1Ag&s=10",Quiero Musica
+http://181.115.239.66:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="http://186.148.196.100:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThw3cgUjrL1LerGrfpfgEece8OUOKve6cGNRO9m-PGzA&s=10",Telehit Musica (1080p)
+http://186.148.196.100:8000/play/a01r
+#EXTINF:-1 group-title="http://186.148.196.100:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjMYOsEbRpRxi6d1-Th0vI5ooXp_M9LjbOE3ZdHxHRlg&s",TeleHit
+http://186.148.196.100:8000/play/a01s
+#EXTINF:-1 group-title="LEGUAGES" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic.png",Totalmusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-80s.png",Totalmusic 80s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-00s.png",Totalmusic 2000s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-concerts.png",Totalmusic Concerts
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-dance.png",Totalmusic Dance
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 group-title="serenotv.com" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoK8xLhHP-FfcNRbOJJ16sqS7kpEW7_y-ltBRqfg9Bvw&s",Tha't 90s 00s
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-now90s00s-rakutengb/cb563d167a6c679098c83e78d3f862d4a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a2f175766ce1ec07c18d7a92ffb0a6b6315749b98b27ad998027feb9a5a7c75fb651f54f91015c23153768ce84f5dd16df87a5142be443f0734dcf00bfe7756d8d55f8d772c8efc8b3268795f3dc46779dd1b9978cecb6f34ba7e98c05e1fc07101bedc13ebfc2689e3a57b00974b44db29fecdb5cf8b00f3dbc421f004e34e6912422fcce8f1f4b8660506191d14bdd151d6d9f3cdf4c2d3ee76f8664e59eaf6c8be2ade01c98c2b956939ba4fba5a813e85789528aef34bb3975fbe286514abde526d2ba1aaf5c4ab757b8a6ff5a6e6ca603cb7c2542917873d8362392ecaac9e43ca935cd6912686bf66526a90c015cbcce2d2af9684589923c5dfbbc9681500337677ec37959363df26ca6be89f43533b6370edcb058ad6a31b5a0562899a57d81f1ac3aaad8acd0b3dc5785b17a857d0550163db272e1bc128ea912863992c68d166dd9af9ae44f49a8a71ea2ded60b0b902a58ee11d4f367d/43/1920x1080_4716800/index.m3u8
-#EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F35a1d7e4-caa3-477a-b813-90d23a756a16%2Fxitesiemprelatino_logo_light_-_Arlette_FiranRDX.png",XITE Siempre Latino
-https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
+#EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxd1jaG1JI3vbVoEv5OkL7_MShCw4_S0eVpvpiV6v5S_Y1r1NDoqou4Tg&s=10",Trace Latina (Internacional)
+https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://i.imgur.com/2qyl2y3.png",XITE Nuevo Latino
 https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
+#EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F35a1d7e4-caa3-477a-b813-90d23a756a16%2Fxitesiemprelatino_logo_light_-_Arlette_FiranRDX.png",XITE Siempre Latino
+https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
+#EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u?hls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3osCr_6urBwh4J6-pBrzXPsGpvFXlbq3o8NzEGyMokmspfEdGwiPlh19b&s=10",Claro Musica
+http://181.119.215.61:8000/play/a07z/index.m3u8?hls
 #EXTINF:-1 group-title="http://181.79.86.130:8000/playlist.m3u8" tvg-logo="https://icanlive.tv/pictures/corazon-tv_1783296048.png",Corazon TV
 http://181.79.86.130:8000/play/a05d/index.m3u8
-#EXTINF:-1 group-title="RAW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8hqQA-U70jDFSwvDAY0rA5b1khFQ0q23S2mvmoNTgQA&s=10",Urban Mix
-https://cloud.tvomix.com/URBANMIX/index.m3u8
-#EXTINF:-1 group-title="RAW" tvg-logo="https://cumbiamix.com/Logos/Cumbiamix.png",Cumbia Mix
-https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkbjEgveZxx6gjWmlBrSvJ28TqoRS-E17k-KHHBk-aDA&s=10",Music TV Granada
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzrhZHQs3vJDuqmrYo0C9nNfCY_aKgM1v8ZX1_QhkVrw&s=10",Supermusica TV
 https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
+#EXTINF:-1 group-title="RAW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8hqQA-U70jDFSwvDAY0rA5b1khFQ0q23S2mvmoNTgQA&s=10",Urban Mix
+https://cloud.tvomix.com/URBANMIX/index.m3u8
+#EXTINF:-1 group-title="RAW" tvg-logo="https://cumbiamix.com/Logos/Cumbiamix.png",Cumbia Mix
+https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaEju1VeC034jy6u9VBTD1KMRw_sgsVooTzJ7NDWdYdQ&s=10",Retromusica Television
 https://vdochile.com:3864/stream/play.m3u8
 #EXTINF:-1 group-title="RAW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ocqSrwMJN8x_ygByZuYtZz367hlBkRNtxsez1KwHww&s=10",Retroclub
@@ -254,14 +252,14 @@ https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 http://181.225.190.242:8000/play/a00p
 #EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp5ijkR8CK2VXrMo1jVv3u_EIp0RaShsPVsFqyZWjTHg&s=10",Caracol2 HD
 http://152.231.29.139:8000/play/a0jz/index.m3u8
-#EXTINF:-1 group-title="https://www.apsattv.com/vidaa.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ltT7T_TZ_EJl3uBUnKsbJGr4lq73-xxPbGDuC1CVNw&s=10",Caracol Mix
-https://amg01433-caracol-amg01433c1-vidaa-mx-9658.playouts.now.amagi.tv/playlist/amg01433-caracolmix-caracolmix-vidaamx/playlist.m3u8?ads.dnt=REPLACEME&ads.app_bundle=REPLACEME&ads.brand_name=REPLACEME&ads.ifa=REPLACEME&ads.ifa_type=REPLACEME&ads.vauth=REPLACEME&ads.device_type=REPLACEME&ads.device_country=REPLACEME&ads.device_language=REPLACEME&ads.device_osv=REPLACEME&ads.app_name=REPLACEME&ads.app_store_url=REPLACEME&ads.us_privacy=REPLACEME&ads.gdpr=REPLACEME&ads.gdpr_consent=REPLACEME&ads.w=REPLACEME&ads.h=REPLACEME&ads.client_section=REPLACEME&ads.provider_name=REPLACEME&ads.content_rating=REPLACEME&ads.content_genre=REPLACEME&ads.ic=REPLACEME&ads.channel_name=caracolmix&ads.content_livestream=REPLACEME&ads.content_language=REPLACEME&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9819
+#EXTINF:-1 group-title="http://190.61.101.11:7050/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKXqf5KllvIBbY2khum1OIiIFG_XVME-ezkrL3DqC5CA&s=10",Caracol INT
+http://190.61.101.11:7050/play/a060/index.m3u8
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbl1RoL8rMX0CtvLYc1hMtTBPaHHYKR1LQiAv8T4Qijw&s=10",Telemundo Internacional
 http://190.108.83.69:8000/play/a02d/index.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kAFy6l_nsPOEB99XB95nMJwn6Ru5xD_dH_rftNbAdYHFY=s900-c-k-c0x00ffffff-no-rj",Telemundo WKAQ-TV
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzkyCUx6zheOFSIXsh5Nd8uyXahjrsw_mRIJxWaQi2Os48Udl6Oey46-k&s=10",Azcorazon HD
-http://186.148.175.138:8000/play/a056
+#EXTINF:-1 group-title="http://186.148.196.100:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzkyCUx6zheOFSIXsh5Nd8uyXahjrsw_mRIJxWaQi2Os48Udl6Oey46-k&s=10",Azcorazon HD
+http://186.148.196.100:8000/play/a014
 #EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf-eVCZ69OZcZbcST1SuPPlLC4kHfSqVKypHgK0JIliQ&s=10",Distrito Comedia HD
 http://186.33.26.18:8000/play/a0rv/index.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThva6WpaYpHwOl4kkms5WGhBomU3b3Xfq3arsfgNFlNQ&s=10",Las Estrellas
@@ -336,8 +334,8 @@ http://190.108.83.69:8000/play/a036/index.m3u8
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/History_Logo_2008-2015.svg/330px-History_Logo_2008-2015.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",History Channel HD
 http://190.108.83.69:8000/play/a045/index.m3u8
-#EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",History 2
-http://190.108.83.69:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="http://186.148.196.100:8000/playlist.m3u" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",History 2
+http://186.148.196.100:8000/play/a00x
 #EXTINF:-1 group-title="https://www.apsattv.com/vidaa.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEEgE6uXwOXhLwzqtRmaSu_a-uaPmy-oO5ozLbLlGsIQ&s=10",Historia & Vida
 https://amg01821-amg01821c22-xiaomi-international-4608.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="LISTA PARA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJOI2aH2jqWCCxnG017N9FOmZh08v4CdJPF9d9Ba2mFw&s",LOVE NATURE
@@ -408,8 +406,20 @@ http://45.5.118.152:8000/play/a02n/index.m3u8
 http://72.1.184.5:8089/play/a05d/index.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://www.40mediagroup.com/images/channels/ent-channel.png",ENT Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 group-title="WEB" tvg-logo="https://www.40mediagroup.com/images/channels/ent-classic.png",ENT Classic
+https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="WEB" tvg-logo="https://www.40mediagroup.com/images/channels/ent-comedy.png",ENT Comedy
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="WEB" tvg-logo="https://www.40mediagroup.com/images/channels/ent-drama.png",ENT Drama
+https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="WEB" tvg-logo="https://www.40mediagroup.com/images/channels/ent-extreme.png",ENT Extreme
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png",ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 group-title="WEB" tvg-logo="https://www.40mediagroup.com/images/channels/ent-life.png",ENT Life
+https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="WEB" tvg-logo="https://www.40mediagroup.com/images/channels/ent-movies.png",ENT Movies
+https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="RAW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT59ha-9WaySTD9cObYJfVHVLgXkGaGW8ntC8Bbh8kPEw&s=10",Europa Europa FHD
 https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
 #EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u?hls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfDrWClJ74ZQux_t3-REAb5j6aDq3CA1tsl6IW-LRNoQ&s=10",Film&Arts HD
@@ -528,3 +538,4 @@ http://190.108.83.69:8000/play/a038/index.m3u8
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 #EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaWdl8PApBzWkMIzKJuDZW7-9Nq-z3FLWe04g1Vha3jg&s=10",Todo Pasión
 https://d3ng12uij4vzn7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zxw9tagebrg7m/TodoPasion_ES.m3u8
+
