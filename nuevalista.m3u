@@ -282,8 +282,6 @@ http://45.171.108.253:8888/PANAMERICANA/index.m3u8
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://play-lh.googleusercontent.com/i375ObM7_bQFUxlPGWPux9NO_OOWA6JVvfECkT2Ed-I72kTKWf3FkCjH60XPVGLsMI1YY6T5isCJcG89xGwc",Telemax (Mexico)
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
-#EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmV516XJF9hyclCW5EeuDXL43dFsphWDL__Jl7jlR6iQ&s=10",VTV Canal 32
-https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
 #EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShd_4REY4p1G7JR8hL3-1quU51gdbap0V_9KlzSwfWeg&s",RCN HD
 http://181.78.8.199:8000/play/a09l/index.m3u8
 #EXTINF:-1 group-title="OPC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/RCN_HD2_2023.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",RCN2 HD
@@ -314,8 +312,6 @@ http://152.231.29.139:8000/play/a0e2/index.m3u8
 https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvdd-1yhCBzOwyHJFl_OsQdxuM28p-7gTu4vtuCBotjg&s=10",WTV Canal 20
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
-#EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe0yJJ8U6hH_s8W9dtwMqLnYtqlECZ1eD18gCPqYCNsg&s",Amazonia TV
-https://servilive.com:3199/live/amazoniatvlive.m3u8
 #EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u8?hls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcNOb1UkTllwWh_zG-aBx5Pqm8vpqXGURd15u_yxghTg&s=10",Animal Planet HD
 http://181.119.215.61:8000/play/a0gq/index.m3u8?hls
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhZ4jGObqluzNhwWCZ67KTZdaz7luJcacMfS1bFE3mg&s",Discovery Channel  HD
@@ -343,7 +339,7 @@ http://186.148.196.100:8000/play/a00x
 #EXTINF:-1 group-title="https://www.apsattv.com/vidaa.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEEgE6uXwOXhLwzqtRmaSu_a-uaPmy-oO5ozLbLlGsIQ&s=10",Historia & Vida
 https://amg01821-amg01821c22-xiaomi-international-4608.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="LISTA PARA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJOI2aH2jqWCCxnG017N9FOmZh08v4CdJPF9d9Ba2mFw&s",LOVE NATURE
-http://181.224.200.5:2277/play/a036/index.m3u8
+http://181.224.200.5:2277/play/a036?hls
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX8Ace7z3txZmBFR9mhEC5wdUUGAJsLUQtfmMAzJmKTQ&s=10",Love Nature (1080p)
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 group-title="https://www.apsattv.com/xiaomi.m3u" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIEzN6ximRMBH5pj_9VsxUntLtS90_mrJBJyB9eSNDMJYzmh3y",Nature Time
@@ -471,7 +467,7 @@ https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGYT6WRZHANCZWT6xRG1RxwH3njvIeKsTj0EIZ_p2UqQ&s=10",MyTime Movie Network (Spain) (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="LISTA PARAMOUNT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxbkDGFlekRykJLZDhxbtB11n2DyMVjUwLuivsEyGwdQ&s=10",Paramount+ HD
-http://181.224.200.5:2277/play/a0df/index.m3u8
+http://181.224.200.5:2277/play/a0df?hls
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB_cziFXeroLP2iwnveHjW8AzxtsJG6z5F8N-1UWpykQ&s=10",Sony Cine (720p)
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB_cziFXeroLP2iwnveHjW8AzxtsJG6z5F8N-1UWpykQ&s=10",Sony Cine HD
