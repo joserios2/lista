@@ -356,10 +356,8 @@ http://181.119.215.61:8000/play/a0g4/index.m3u8?hls
 http://181.119.215.61:8000/play/a0l0/index.m3u8?hls
 #EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u?hls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3C02TkCbsUK72Z_alu1k7lh4obk_8_H_pwPP2ObJiJw&s=10",Cartoonito
 http://181.119.215.61:8000/play/a052/index.m3u8?hls
-#EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/3840px-El_Chavo_%28simple_logo%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",El Chavo TV (720p)
+#EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/3840px-El_Chavo_%28simple_logo%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",El Chavo (24/7)
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:-1 group-title="XUPERLISTA" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/3840px-El_Chavo_%28simple_logo%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",El Chavo del Ocho (OPC 2)
-http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/783521.ts
 #EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTApCLMTtj5DvFWblAVmefJsMEgUNhIpFlvNu9cQcsL9g&s=10",Los Simpson
 https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAUevMRAMTJByKEUY4Ee_lh0t125L3P0kTU-MFThkptw&s=10",Discovery Kids HD
