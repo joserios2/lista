@@ -374,7 +374,7 @@ http://190.108.83.69:8000/play/a02e/index.m3u8
 https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/3840px-El_Chavo_%28simple_logo%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",El Chavo TV (24/7)
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTApCLMTtj5DvFWblAVmefJsMEgUNhIpFlvNu9cQcsL9g&s=10",Los Simpson
+#EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTApCLMTtj5DvFWblAVmefJsMEgUNhIpFlvNu9cQcsL9g&s=10",Los Simpson (24/7)
 https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
 #EXTINF:-1 group-title="StreamTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLq8pUhITpfSvThrnIfTtk9pkHFQYNvZxDYUuNtPeof3DCwJvbuqYqmqs&s=10",Spiderman (24/7)
 https://live20.bozztv.com/giatvplayout7/giatv-210702/tracks-v1a1/mono.ts.m3u8
