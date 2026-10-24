@@ -126,8 +126,6 @@ http://181.225.190.242:8000/play/a03r
 http://181.119.215.61:8000/play/a07o/index.m3u8?hls
 #EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u?hls" tvg-logo="https://play-lh.googleusercontent.com/DOWFo0eUL9CjEmWChmXMAKwtBil_-69zKOFBLJuQIPmc0QjyrkfCVwiB2e5G1iMV92SDFDNSfuGLcX4AB0z-Rg",Claro Sports 2 HD
 http://181.119.215.61:8000/play/a07p/index.m3u8?hls
-#EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u?hls" tvg-logo="https://play-lh.googleusercontent.com/DOWFo0eUL9CjEmWChmXMAKwtBil_-69zKOFBLJuQIPmc0QjyrkfCVwiB2e5G1iMV92SDFDNSfuGLcX4AB0z-Rg",Claro Sports 3 HD
-http://181.119.215.61:8000/play/a07i/index.m3u8?hls
 #EXTINF:-1 group-title="http://190.108.83.69:8000/play/a07o/index.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3NgCckIAknPx8UgsOOuAeXAhUnG5vuTqU-yv2i0P-Gw&s=10",Movistar Deportes
 http://190.108.83.69:8000/play/a07o/index.m3u8
 #EXTINF:-1 group-title="COUNTRIES AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Lze_OCxuCe2PvbGXF2jPs9rg66Ug7SSUMAz4C1qPAw&s=10",FIFA+
