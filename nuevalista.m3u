@@ -43,7 +43,7 @@ http://190.108.83.69:8000/play/a08l/index.m3u8
 #EXTINF:-1 group-title="RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",El Trece (1080p)
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 group-title="LISTACREADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",El Trece HD
-http://45.188.229.33:8000/play/a1dk?hls
+http://181.209.80.115:8000/play/el_trece_hd
 #EXTINF:-1 group-title="RAW" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png",El Trece Internacional
 http://190.108.83.69:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="https://raw.githubusercontent.com/martinez-x25/suprem3u-argentina/refs/heads/main/lista.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4MKLzmMuA0IeEq_oZiGhTJANrVJOSeD-l7zPWx_NdyA&s",Volver
@@ -308,8 +308,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqp3w_aAEHpu0QiAZk5ERwfptgpHAy_NThNeLSNbO0sg&s=10",La Red
 http://200.59.191.177:8000/play/a0o4/index.m3u8?hls
-#EXTINF:-1 group-title="http://152.231.29.139:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqp3w_aAEHpu0QiAZk5ERwfptgpHAy_NThNeLSNbO0sg&s=10",La Red HD
-http://45.188.229.33:8000/play/a1l9/index.m3u8?hls
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWIBxPqAP8irG0c9nX279CZ2-39pSWJRvF6NEVrmLlKA&s=10",Valle Nuevo TV
 https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvdd-1yhCBzOwyHJFl_OsQdxuM28p-7gTu4vtuCBotjg&s=10",WTV Canal 20
@@ -375,8 +373,6 @@ http://190.108.83.69:8000/play/a02e/index.m3u8
 #EXTINF:-1 group-title="StreamTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXHeOHwEw_rPNMjmAfDNKnvG_NyGLKOIwlWyqSOQOcEw&s=10",Dragon Ball Z (24/7)
 https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/3840px-El_Chavo_%28simple_logo%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",El Chavo TV (24/7)
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:-1 group-title="StreamTV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/3840px-El_Chavo_%28simple_logo%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",El Chavo (24/7) OPC 2
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTApCLMTtj5DvFWblAVmefJsMEgUNhIpFlvNu9cQcsL9g&s=10",Los Simpson
 https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
