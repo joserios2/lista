@@ -43,7 +43,7 @@ http://190.108.83.69:8000/play/a08l/index.m3u8
 #EXTINF:-1 group-title="RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",El Trece (1080p)
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 group-title="LISTACREADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",El Trece HD
-http://181.209.80.115:8000/play/el_trece_hd
+http://45.188.229.33:8000/play/a1dk?hls
 #EXTINF:-1 group-title="RAW" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png",El Trece Internacional
 http://190.108.83.69:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="https://raw.githubusercontent.com/martinez-x25/suprem3u-argentina/refs/heads/main/lista.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4MKLzmMuA0IeEq_oZiGhTJANrVJOSeD-l7zPWx_NdyA&s",Volver
@@ -311,7 +311,7 @@ https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqp3w_aAEHpu0QiAZk5ERwfptgpHAy_NThNeLSNbO0sg&s=10",La Red
 http://200.59.191.177:8000/play/a0o4/index.m3u8?hls
 #EXTINF:-1 group-title="http://152.231.29.139:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqp3w_aAEHpu0QiAZk5ERwfptgpHAy_NThNeLSNbO0sg&s=10",La Red HD
-http://152.231.29.139:8000/play/a0e2/index.m3u8
+http://45.188.229.33:8000/play/a1l9/index.m3u8?hls
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWIBxPqAP8irG0c9nX279CZ2-39pSWJRvF6NEVrmLlKA&s=10",Valle Nuevo TV
 https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvdd-1yhCBzOwyHJFl_OsQdxuM28p-7gTu4vtuCBotjg&s=10",WTV Canal 20
@@ -352,14 +352,10 @@ https://amg01515-amg01515c13-xiaomi-international-4618.playouts.now.amagi.tv/pla
 http://190.108.83.69:8000/play/a046/index.m3u8
 #EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u?hls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8w84jqCi2nyC9ojDj1msNDXsTZ-70HgrTUv37Y5KkJA&s",Total Animes
 http://181.119.215.61:8000/play/a0g4/index.m3u8?hls
-#EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBMpabv4Mc7zuMRel9CVyITcuAZYRXgYlolGttrLYjLw&s=10",CARTOON NETWORTK
+#EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBMpabv4Mc7zuMRel9CVyITcuAZYRXgYlolGttrLYjLw&s=10",Cartoon Networtk
 http://181.119.215.61:8000/play/a0l0/index.m3u8?hls
 #EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u?hls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3C02TkCbsUK72Z_alu1k7lh4obk_8_H_pwPP2ObJiJw&s=10",Cartoonito
 http://181.119.215.61:8000/play/a052/index.m3u8?hls
-#EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/3840px-El_Chavo_%28simple_logo%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",El Chavo (24/7)
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTApCLMTtj5DvFWblAVmefJsMEgUNhIpFlvNu9cQcsL9g&s=10",Los Simpson
-https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAUevMRAMTJByKEUY4Ee_lh0t125L3P0kTU-MFThkptw&s=10",Discovery Kids HD
 http://190.108.83.69:8000/play/a0bn/index.m3u8
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlteNXY4-nweSjwe3hTqz4FGayiv7jivtjMj3iCLzscQ&s=10",Disney HD
@@ -378,6 +374,18 @@ http://avefenixtv.com/live/arielprimousaamigo1/SnG8ZBa9jh/712737.ts
 http://190.108.83.69:8000/play/a07n/index.m3u8
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvaah-8hBLOfle0bSAbsMSfscV7AQVn6I9elowzR61_Q&s=10",Tooncast
 http://190.108.83.69:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="StreamTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXHeOHwEw_rPNMjmAfDNKnvG_NyGLKOIwlWyqSOQOcEw&s=10",Dragon Ball Z (24/7)
+https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
+#EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/3840px-El_Chavo_%28simple_logo%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",El Chavo TV (24/7)
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 group-title="StreamTV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/3840px-El_Chavo_%28simple_logo%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",El Chavo (24/7) OPC 2
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTApCLMTtj5DvFWblAVmefJsMEgUNhIpFlvNu9cQcsL9g&s=10",Los Simpson
+https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
+#EXTINF:-1 group-title="StreamTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLq8pUhITpfSvThrnIfTtk9pkHFQYNvZxDYUuNtPeof3DCwJvbuqYqmqs&s=10",Spiderman (24/7)
+https://live20.bozztv.com/giatvplayout7/giatv-210702/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="StreamTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT61zfYgzrvxlPvFGTiVEeNu7j3cuROE2odZGNFub9E2A&s=10",X-Men (24/7)
+https://live20.bozztv.com/giatvplayout7/giatv-210703/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkHKJVrKm8SEqKbnqXaU-EJHtAOFtQ5onu6NbnxI5Q-Q&s=10",A&E HD
 http://190.108.83.69:8000/play/a02y/index.m3u8
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://play-lh.googleusercontent.com/PIFNu8-BOM0gEIZxpGXQBQ-_xS1HiQItHCSd9DuoEACRV2paI3Xwq9DG6dTILCUqKrkZRMmENfgLr4d3zSGa",AMC HD
