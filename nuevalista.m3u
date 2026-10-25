@@ -52,8 +52,8 @@ http://181.209.80.115:8000/play/volver
 http://181.209.80.115:8000/play/ciudad_magazine
 #EXTINF:-1 group-title="WEB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj_ahx9GUJJdpQmTMZD1Ox1X0dwQvD3BWJiH7IY7x2HA&s=10",Ciudad Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="http://138.59.227.20:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPZHt0eKF6qpzmnCMBYyQMM4mwEY8p0VAvPF_0eYC5nA&s",DeporTV
-http://138.59.227.20:8000/play/a07f?hls
+#EXTINF:-1 group-title="http://181.209.80.115:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPZHt0eKF6qpzmnCMBYyQMM4mwEY8p0VAvPF_0eYC5nA&s",DeporTV
+http://181.209.80.115:8000/play/a06h/index.m3u8
 #EXTINF:-1 group-title="DSPORT LIST OPC7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7hjBi2PhJzW0KNWT0ELsThCRr5FKDWHHW4EP0yD_4uQ&s=10",DSports
 http://191.97.59.33:8000/play/a09t/index.m3u8
 #EXTINF:-1 group-title="https://raw.githubusercontent.com/martinez-x25/suprem3u-argentina/refs/heads/main/lista.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAGZmmzButUG4LcEmLj026MlSWMZKhQ2WmHjg4cE6q-A&s=10",DSports 2 HD
@@ -102,18 +102,18 @@ http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 http://181.209.80.115:8000/play/fox_sports_hd
 #EXTINF:-1 group-title="https://raw.githubusercontent.com/martinez-x25/suprem3u-argentina/refs/heads/main/lista.m3u" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png",Fox Sports 2
 http://45.188.229.33:8000/play/a1ae/index.m3u8?hls
-#EXTINF:-1 group-title="https://raw.githubusercontent.com/martinez-x25/suprem3u-argentina/refs/heads/main/lista.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ6H-93VvSMvOaBoFvtbH090mH1CVv13C09lh6p_ZuRQ&s=10",Fox Sports 3
-http://138.59.227.20:8000/play/a06y/index.m3u8?hls
+#EXTINF:-1 group-title="http://181.115.239.66:8000/pllaylis.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ6H-93VvSMvOaBoFvtbH090mH1CVv13C09lh6p_ZuRQ&s=10",Fox Sports 3
+http://181.115.239.66:8000/play/a012/index.m3u8
 #EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjpUaDWIyAHLNwRCiT2ygW9iOutenItchDpHoX95qDBOcZL4Qm8dVN2884&s=10",FOX Sport Premium
 http://190.61.101.11:7050/play/a08u/index.m3u8?hls
 #EXTINF:-1 group-title="OPC" tvg-logo="https://yt3.googleusercontent.com/UgLvAWxOHY3GGeUgIy-5kzA0Clkfa36eX4lEokaROrSxr8g6Vh9anGiDb3oxb_DD3-p4tnXD=s900-c-k-c0x00ffffff-no-rj",TNT Sports
 http://205.235.6.29:8000/play/a0xa/index.m3u8?hls
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz6CLXuCuDwpMdP-fVVjAdb83QhMZJbRKFv8dSkE6cPw&s=10",TNT Sports Premiun HD
 http://190.108.83.69:8000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="http://138.59.227.20:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMt_Bv81vx5ya7DrEQIXLPiLFkhmyqjPW9OBvXduvHvw&s",TNT Sports Premiun HD | ARG
-http://138.59.227.20:8000/play/a06z?hls
-#EXTINF:-1 group-title="http://138.59.227.20:8000/playlist.m3u8" tvg-logo="https://yt3.googleusercontent.com/VkAgCIDmeBeTHRQhvzF4Pfqu-JbLy2WWvcwBB_qVwhKp-I30toccvyxlGJlbFpcJscwCQ1HwAg=s900-c-k-c0x00ffffff-no-rj",TyC Sports AR HD
-http://138.59.227.20:8000/play/a06x?hls
+#EXTINF:-1 group-title="http://181.115.239.66:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMt_Bv81vx5ya7DrEQIXLPiLFkhmyqjPW9OBvXduvHvw&s",TNT Sports Premiun HD | ARG
+http://181.115.239.66:8000/play/a060/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/VkAgCIDmeBeTHRQhvzF4Pfqu-JbLy2WWvcwBB_qVwhKp-I30toccvyxlGJlbFpcJscwCQ1HwAg=s900-c-k-c0x00ffffff-no-rj",TyC Sports AR HD
+https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
 #EXTINF:-1 group-title="http://190.128.214.97:64333/playlist.m3u8" tvg-logo="https://yt3.googleusercontent.com/VkAgCIDmeBeTHRQhvzF4Pfqu-JbLy2WWvcwBB_qVwhKp-I30toccvyxlGJlbFpcJscwCQ1HwAg=s900-c-k-c0x00ffffff-no-rj",TyC Sports HD
 http://190.128.214.97:64333/play/a01l?hls
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_FQVW411aP95zkWHuJfIm4hniDnarZm1jAtzKa0rlJg&s",TyC Sports Fan CABA TV Cable
