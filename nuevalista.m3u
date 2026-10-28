@@ -144,8 +144,6 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CCANALDELAM
 #EXTINF:-1 group-title="SerenoTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQG3oy5KBzh-rG-WgBTQ1bjMtk0NjR2WiJiKGnvf9Hcw&s=10",Musictop | AR
 http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQG3oy5KBzh-rG-WgBTQ1bjMtk0NjR2WiJiKGnvf9Hcw&s=10" group-title="http://190.128.214.97:64333/playlist.m3u",Musictop
-http://190.128.214.97:64333/play/a06o/index.m3u8
 #EXTINF:-1 group-title="http://181.115.239.66:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwGc6k5EKoPecmI1cDZfqcutyxmxvNIREBzzXl1I_1Ag&s=10",Quiero Musica
 http://181.115.239.66:8000/play/a00z/index.m3u8
 #EXTINF:-1 group-title="http://186.148.196.100:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThw3cgUjrL1LerGrfpfgEece8OUOKve6cGNRO9m-PGzA&s=10",Telehit Musica (1080p)
@@ -328,8 +326,8 @@ https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 #EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u8?hls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcNOb1UkTllwWh_zG-aBx5Pqm8vpqXGURd15u_yxghTg&s=10",Animal Planet HD
 http://181.119.215.61:8000/play/a0gq/index.m3u8?hls
-#EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhZ4jGObqluzNhwWCZ67KTZdaz7luJcacMfS1bFE3mg&s",Discovery Channel  HD
-http://190.108.83.69:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhZ4jGObqluzNhwWCZ67KTZdaz7luJcacMfS1bFE3mg&s",Discovery Channel  HD
+http://181.119.215.61:8000/play/a0kn/index.m3u8?hls
 #EXTINF:-1 group-title="http://200.115.120.1:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzFRfDIa30JQiHibKOdK0BZTnfbJgtqNj5a-kQjL7N5A&s=10",Discovery Family
 http://200.115.120.1:8000/play/ca053/index.m3u8
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTDqf_k5EiS7IaRAdm2DolEzJIKH79urcrUg532j4ypQ&s=10",Discovery Home & Health HD
@@ -528,7 +526,7 @@ http://45.5.118.152:8000/play/a0dn/index.m3u8
 http://45.5.118.152:8000/play/a0do/index.m3u8
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWiwJyCnO7Udzdbx88MJ-W3oghLOH7PDxihbhBVmFqNQ&s=10",USA
 http://190.108.83.69:8000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-r1zz_R_5JxT9_K06RAymwed0H8uEcLIzn8HIvV_OQ&s=10",Warner Channel HD 
+#EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-r1zz_R_5JxT9_K06RAymwed0H8uEcLIzn8HIvV_OQ&s=10",Warner Channel HD
 http://205.235.6.29:8000/play/a0ys/index.m3u8?hls
 #EXTINF:-1 group-title="OPC (OPC2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm81kyIUDJ7cr5Rk61EQuZg7lFbmRosHPL-8Uu7JK9jA&s",Pasiones HD
 http://45.5.118.152:8000/play/a06d/index.m3u8
