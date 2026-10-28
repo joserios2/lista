@@ -142,7 +142,7 @@ http://181.119.215.61:8000/play/a0h1/index.m3u8?hls
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFmkI3WDsjLK_Hr6MzxB3S9lZH1pmA9TEEcQNO6lD4ag&s=10",Canal de la Musica - CABA TV Cable -
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CCANALDELAM
-#EXTINF:-1 group-title="SerenoTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQG3oy5KBzh-rG-WgBTQ1bjMtk0NjR2WiJiKGnvf9Hcw&s=10",Musictop | AR
+#EXTINF:-1 group-title="SerenoTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQG3oy5KBzh-rG-WgBTQ1bjMtk0NjR2WiJiKGnvf9Hcw&s=10",Musictop
 http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 #EXTINF:-1 group-title="http://181.115.239.66:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwGc6k5EKoPecmI1cDZfqcutyxmxvNIREBzzXl1I_1Ag&s=10",Quiero Musica
 http://181.115.239.66:8000/play/a00z/index.m3u8
