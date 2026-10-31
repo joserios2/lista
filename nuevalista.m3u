@@ -451,7 +451,7 @@ http://190.108.83.69:8000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeMCoXOaWoLtx--RUj5nLyB-bu2-bPpYchRZxDw3z2qA&s=10",Golden HD
 http://181.119.215.61:8000/play/a0jv/index.m3u8?hls
 #EXTINF:-1 group-title="http://181.79.86.130:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdFV_iNTxQUIvAxv8NpZNXxKp3IdUf1JsQ_ESRHd25cw&s=10",Golden EDGE HD
-http://190.61.47.54:8000/play/a025/index.m3u8
+http://200.59.191.177:8000/play/a0q8/index.m3u8?hls
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdFV_iNTxQUIvAxv8NpZNXxKp3IdUf1JsQ_ESRHd25cw&s=10",Golden EDGE
 http://190.108.83.69:8000/play/a00w/index.m3u8
 #EXTINF:-1 group-title="http://45.186.106.207:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBlOfUugG-fsejMqC6YhUQGxAjl-yQxlkNb_KaZTYn5w&s=10",Golden Premiere
