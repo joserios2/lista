@@ -60,6 +60,8 @@ http://191.97.59.33:8000/play/a09t/index.m3u8
 http://45.134.141.161:2200/ARG/DTV_SP2/index.m3u8
 #EXTINF:-1 group-title="BUFALO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNo2vE-5rQyOdqOp4Tj7eRo48s_TtXlA0ZRgwnOn9c1Ax_sAv6Vu1JaJ4S&s=10",Dsports+
 https://s2.bufaloweb.com/bufalo11/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="BUFALO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNo2vE-5rQyOdqOp4Tj7eRo48s_TtXlA0ZRgwnOn9c1Ax_sAv6Vu1JaJ4S&s=10",Dsports+ OPC 2
+https://s2.bufaloweb.com/bufalo24/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="ARG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCZfgMoplo_YYLEgNcmJkPRoossAZUtz3n5MkEo-R3A&s=10",ESPN | ARG
 http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/index.m3u8
 #EXTINF:-1 group-title="ARG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZOZnAWNAL1L-TUMhZ2bM4lF_fx7pIrSXkJyoIWJZFGA&s=10",ESPN 2 | ARG
@@ -68,8 +70,6 @@ http://45.134.141.161:2200/ARG/ESPN_ARG_2_HD/index.m3u8
 http://45.134.141.161:2200/ARG/ESPN_ARG_3_HD/index.m3u8
 #EXTINF:-1 group-title="https://raw.githubusercontent.com/martinez-x25/suprem3u-argentina/refs/heads/main/lista.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgu7oFfuKyqpFSOOcW2cLc53lQ4UQYQ97URye23qF-sw&s=10",ESPN 4 | ARG
 http://181.209.80.115:8000/play/espn_4_hd
-#EXTINF:-1 group-title="COUNTRIES AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8qh3p5D7gw4DVXBaH0lDGblk-AtT3qInhVRieUHknGgMh00uuAU196JCk&s=10",ESPN Extra
-https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?
 #EXTINF:-1 group-title="http://181.209.80.115:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdc0JzYn3IyERyTif4dkcFyQcvGdBcM5MwDf1aZlcmQvTa-qSO",ESPN Premium HD | ARG
 http://181.209.80.115:8000/play/espn_premium_hd
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://pbs.twimg.com/profile_images/856564125455065089/MAJ4Buek_400x400.jpg",ESPN HD
@@ -90,6 +90,8 @@ http://190.108.83.69:8000/play/a049/index.m3u8
 http://190.108.83.69:8000/play/a03w/index.m3u8
 #EXTINF:-1 group-title="INDEX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl0tsCpqnEbo3GWDLzsSNbnSA2OojL7ISuZRX_O0-khxY5bPZI",ESPN U HD
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1 group-title="COUNTRIES AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8qh3p5D7gw4DVXBaH0lDGblk-AtT3qInhVRieUHknGgMh00uuAU196JCk&s=10",ESPN Extra
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?
 #EXTINF:-1 group-title="https://raw.githubusercontent.com/martinez-x25/suprem3u-argentina/refs/heads/main/lista.m3u" tvg-logo="https://yt3.googleusercontent.com/VRbBwrn1T7X5a-FG8-mqOZkbTjF_-o3ZggkmiapKaiihtox2Ck7zMYg2zL7M_WJH5U9Qab-m=s900-c-k-c0x00ffffff-no-rj",Fox Sports
 http://181.209.80.115:8000/play/fox_sports_hd
 #EXTINF:-1 group-title="https://raw.githubusercontent.com/martinez-x25/suprem3u-argentina/refs/heads/main/lista.m3u" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png",Fox Sports 2
