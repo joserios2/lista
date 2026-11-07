@@ -178,6 +178,8 @@ http://181.79.86.130:8000/play/a05d/index.m3u8
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzrhZHQs3vJDuqmrYo0C9nNfCY_aKgM1v8ZX1_QhkVrw&s=10",Supermusica TV
 https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
+#EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWIBxPqAP8irG0c9nX279CZ2-39pSWJRvF6NEVrmLlKA&s=10",Valle Nuevo TV
+https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
 #EXTINF:-1 group-title="RAW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8hqQA-U70jDFSwvDAY0rA5b1khFQ0q23S2mvmoNTgQA&s=10",Urban Mix
 https://cloud.tvomix.com/URBANMIX/index.m3u8
 #EXTINF:-1 group-title="RAW" tvg-logo="https://cumbiamix.com/Logos/Cumbiamix.png",Cumbia Mix
@@ -309,13 +311,11 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4ohPDhp7Fd14aeZGRvOC12kPQTSyuxwxN804668BYLA&s=10",TVE Star HD
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",El Toro TV
-https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqp3w_aAEHpu0QiAZk5ERwfptgpHAy_NThNeLSNbO0sg&s=10",La Red
 http://200.59.191.177:8000/play/a0o4/index.m3u8?hls
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkTIG7H6H5dOldF2LeHo3j4BFoTLQ3CXxDc_ttQ5UEw&s=10",Global
 http://190.108.83.69:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWIBxPqAP8irG0c9nX279CZ2-39pSWJRvF6NEVrmLlKA&s=10",Valle Nuevo TV
-https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvdd-1yhCBzOwyHJFl_OsQdxuM28p-7gTu4vtuCBotjg&s=10",WTV Canal 20
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 #EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u8?hls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcNOb1UkTllwWh_zG-aBx5Pqm8vpqXGURd15u_yxghTg&s=10",Animal Planet HD
@@ -394,8 +394,8 @@ http://181.224.255.210:8001/play/a0f7/index.m3u8?hls
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CAMC_______
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZUY_WLmPjBI09-F2rpV7HGaQIQ_vxAjWdEAcQyc1OLOhswJWIL7cv01Y&s=10",AMC SERIES
 http://181.224.255.210:8001/play/a0qn/index.m3u8?hls
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1OE7hr0XCFqBNBRvnLTVB1x8VUa5ur0hVIVnFNDors2At_3PfF2hpCRfr&s=10" group-title="ARG",AXN HD
-http://45.134.141.161:2200/ARG/AXN_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1OE7hr0XCFqBNBRvnLTVB1x8VUa5ur0hVIVnFNDors2At_3PfF2hpCRfr&s=10" group-title="CH",AXN HD
+http://181.79.87.130:8000/play/a0az/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0SZqvf4kzEQQFpUZgAb9Fw5X10bRjmSvKvdTN_sTwOOkh4NJHGkdFN1cE&s=10",Atres Series HD
 http://181.224.255.210:8001/play/a0rm/index.m3u8?hls
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBWtjzFfwqNw4QbKBjlOrFvKBbU6jaT8QKPnYqwURjVA&s=10",BBC Drama (1080p)
@@ -444,6 +444,8 @@ http://181.79.87.130:8000/play/a0b4/index.m3u8
 http://181.224.255.210:8001/play/a0qg/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeMCoXOaWoLtx--RUj5nLyB-bu2-bPpYchRZxDw3z2qA&s=10",Golden HD
 http://190.60.48.150:8000/play/golden/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdFV_iNTxQUIvAxv8NpZNXxKp3IdUf1JsQ_ESRHd25cw&s=10",Golden EDGE HD
+http://190.60.48.150:8000/play/golden-edge/index.m3u8
 #EXTINF:-1 group-title="http://190.108.83.69:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdFV_iNTxQUIvAxv8NpZNXxKp3IdUf1JsQ_ESRHd25cw&s=10",Golden EDGE
 http://190.108.83.69:8000/play/a00w/index.m3u8
 #EXTINF:-1 group-title="http://45.186.106.207:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBlOfUugG-fsejMqC6YhUQGxAjl-yQxlkNb_KaZTYn5w&s=10",Golden Premiere
