@@ -71,7 +71,7 @@ http://158.172.155.130:8000/play/a0am/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdc0JzYn3IyERyTif4dkcFyQcvGdBcM5MwDf1aZlcmQvTa-qSO",ESPN Premium HD | ARG
 http://158.172.155.130:8000/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/856564125455065089/MAJ4Buek_400x400.jpg",ESPN HD
-http://181.119.215.61:8000/play/a05r/index.m3u8?hls
+http://38.226.49.253:8000/play/a07l/index.m3u8
 #EXTINF:-1 group-title="CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZOZnAWNAL1L-TUMhZ2bM4lF_fx7pIrSXkJyoIWJZFGA&s=10",ESPN 2 HD
 http://181.79.87.130:8000/play/a0e9/index.m3u8
 #EXTINF:-1 group-title="CH" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAnhR-LHDloXEzlur4l_TkICeA_TIgK7yOBZzehyIu7bulru4t",ESPN 3 HD
@@ -84,8 +84,8 @@ http://181.79.87.130:8000/play/a0ea/index.m3u8
 http://181.79.87.130:8000/play/a0e3/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNLkG_oxTSYHdJERZHHp3PgmQRdLm21emaYprzpT2DA&s=10" group-title="CH",ESPN 7HD
 http://181.79.87.130:8000/play/a0aw/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/60467fdad665324c974b586c/69d7f4651b0dbc426b27e968_espnpremiumcl.png" group-title="CH",ESPN Premium HD
-http://181.79.87.130:8000/play/a0d1/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/60467fdad665324c974b586c/69d7f4651b0dbc426b27e968_espnpremiumcl.png",ESPN Premium HD
+http://38.226.49.253:8000/play/a07t/index.m3u8
 #EXTINF:-1 group-title="INDEX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl0tsCpqnEbo3GWDLzsSNbnSA2OojL7ISuZRX_O0-khxY5bPZI",ESPN U HD
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 group-title="COUNTRIES AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8qh3p5D7gw4DVXBaH0lDGblk-AtT3qInhVRieUHknGgMh00uuAU196JCk&s=10",ESPN Extra
@@ -188,6 +188,8 @@ https://cloud.tvomix.com/FLASHBACKMIX/index.m3u8
 https://vdochile.com:3864/stream/play.m3u8
 #EXTINF:-1 group-title="RAW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ocqSrwMJN8x_ygByZuYtZz367hlBkRNtxsez1KwHww&s=10",Retroclub
 https://video03.logicahost.com.br/retroclub02/retroclub02/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjTfKn3GG3BstipmSdVhjX0MfkIFtbE-ADsRVvwim8gA&s=10",Rock TV
+http://45.5.118.152:8000/play/a03h/index.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSulzFaP8fJPlNwpnGOvKfI6rUr-1lHokPNJeAKy7hl8w&s=10",Wox TV
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 #EXTINF:-1 group-title="RAW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTTwBepm398zY-x8_pcqlVUKX3q6Jra6EfspLzsGh6igDAL6S0FC1GuOM&s=10",Argentinísima Satelital
@@ -430,6 +432,8 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.
 https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="WEB" tvg-logo="https://www.40mediagroup.com/images/channels/ent-movies.png",ENT Movies
 https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eWvWScKYD1WSLMM0F5EJkziW6oIOmsHAONgZosLyaQ&s=10",EURO Channel
+http://45.5.118.152:8000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="RAW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT59ha-9WaySTD9cObYJfVHVLgXkGaGW8ntC8Bbh8kPEw&s=10",Europa Europa FHD
 https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
 #EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u?hls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfDrWClJ74ZQux_t3-REAb5j6aDq3CA1tsl6IW-LRNoQ&s=10",Film&Arts HD
