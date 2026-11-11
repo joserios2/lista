@@ -54,10 +54,10 @@ http://138.59.227.20:8000/play/a06m
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPZHt0eKF6qpzmnCMBYyQMM4mwEY8p0VAvPF_0eYC5nA&s",DeporTV
 http://158.172.155.130:8000/play/a09y/index.m3u8
-#EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7hjBi2PhJzW0KNWT0ELsThCRr5FKDWHHW4EP0yD_4uQ&s=10",DSports
-http://181.224.255.210:8001/play/a0s8
-#EXTINF:-1 group-title="https://raw.githubusercontent.com/martinez-x25/suprem3u-argentina/refs/heads/main/lista.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAGZmmzButUG4LcEmLj026MlSWMZKhQ2WmHjg4cE6q-A&s=10",DSports 2 HD
-http://45.134.141.161:2200/ARG/DTV_SP2/index.m3u8
+#EXTINF:-1 group-title="LISTADS OPC7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7hjBi2PhJzW0KNWT0ELsThCRr5FKDWHHW4EP0yD_4uQ&s=10",DSports
+http://191.97.59.33:8000/play/a09t/index.m3u8
+#EXTINF:-1 group-title="BUFALO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAGZmmzButUG4LcEmLj026MlSWMZKhQ2WmHjg4cE6q-A&s=10",DSports 2 HD
+https://s2.bufaloweb.com/bufalo10/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="BUFALO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNo2vE-5rQyOdqOp4Tj7eRo48s_TtXlA0ZRgwnOn9c1Ax_sAv6Vu1JaJ4S&s=10",Dsports+
 https://s2.bufaloweb.com/bufalo11/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="ARG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCZfgMoplo_YYLEgNcmJkPRoossAZUtz3n5MkEo-R3A&s=10",ESPN | ARG
@@ -110,8 +110,8 @@ https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
 http://190.128.214.97:64333/play/a01l?hls
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_FQVW411aP95zkWHuJfIm4hniDnarZm1jAtzKa0rlJg&s",TyC Sports Fan CABA TV Cable
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTYCSPORTS_
-#EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOB3NNMDhxQZoSufMPOFle6QRJFWk7TmizjcpkbmTjPA&s=10",TyC Sports USA
-http://45.170.130.224:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOB3NNMDhxQZoSufMPOFle6QRJFWk7TmizjcpkbmTjPA&s=10",TyC Sports USA
+http://181.79.87.130:8000/play/a0ck/index.m3u8
 #EXTINF:-1 group-title="ARG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYVtQdAtTp-ZCi09AC-BkFU4isJzgMYBn1M8-QEXF09Q&s",Eurosport 1 HD
 http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
 #EXTINF:-1 group-title="ARG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFFI92_q69hwUWYp3f5Ltjf89BvXJ767J38Nu0F-kY6g&s",Eurosport 2 HD
@@ -174,10 +174,10 @@ https://d198ro05q94rc4.cloudfront.net/720p/index.m3u8
 https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
 #EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u?hls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3osCr_6urBwh4J6-pBrzXPsGpvFXlbq3o8NzEGyMokmspfEdGwiPlh19b&s=10",Claro Musica
 http://181.119.215.61:8000/play/a07z/index.m3u8?hls
-#EXTINF:-1 group-title="http://181.79.86.130:8000/playlist.m3u8" tvg-logo="https://icanlive.tv/pictures/corazon-tv_1783296048.png",Corazon TV
+#EXTINF:-1 group-title="http://181.79.86.130:8000/playlist.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhUBiZCmD2B2Jng1JJWiZtYAnU3ue2pkfRAw&s",Corazon TV
 http://181.79.86.130:8000/play/a05d/index.m3u8
-#EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkbjEgveZxx6gjWmlBrSvJ28TqoRS-E17k-KHHBk-aDA&s=10",Music TV Granada
-https://cloudvideo.servers10.com:8081/8032/index.m3u8
+#EXTINF:-1 group-title="WEB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWbcWlB8-ub9Hkf4kbf28rV2AMlUVl_NO8Dh2jF1ySdA&s",Music TV Granada
+https://cloudvideo.servers10.com:8081/8032/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzrhZHQs3vJDuqmrYo0C9nNfCY_aKgM1v8ZX1_QhkVrw&s=10",Supermusica TV
 https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWIBxPqAP8irG0c9nX279CZ2-39pSWJRvF6NEVrmLlKA&s=10",Valle Nuevo TV
@@ -218,8 +218,6 @@ https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
 https://acentotv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDgKl2GrSy5E8e2waoWEZYmkuBJcSTdBjeZnMryBJxyg&s=10" group-title="SerenoTV",Bayres TV - 41.1TV - G de Laferrere
 https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w2016146377.m3u8
-#EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qh0qMSxIwAhmIEBHaH8vQJZI3N_5j6W5yYGNug1UKA&s=10",Ciudad Magica
-https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvcB4xD9Yet--YvlPxlpNdMf8tyF-3O624pBpYN49qRA&s=10",Canal 9 Resistencia
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1 group-title="COUNTRIES AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaXiIfuygaGTUFtlc0DMpNahzFXkwUOBAUtFfD67w4NQ&s=10",Canal Luz
@@ -230,6 +228,8 @@ https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/YJe5RXP1hXnPhELfVACSMRgIX1QKvXQ7mREVQRNCx72HYncSLcDhCVbldnTudMwkfIoGk6PW=s160-c-k-c0x00ffffff-no-rj",Caras TV
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBCARASTV___
+#EXTINF:-1 group-title="WEB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wZDa9v28mesAJXwiEFz38YGSrnVi3iPG2jfi3RfnWw&s=10",Ciudad Magica Tv
+https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTScCsoaA389FCY4l4K5erv5yY0xUXR_G2L2qhWR8M8Pg&s=10",Cosmos TV
 https://radiosargentina.com.ar/php/artvDI.php?id=ARSJSAN_J_93.5_COSMOSTV__
 #EXTINF:-1 group-title="languagues_spa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6cA4g0dgWONdxgq9_NzHj_TG2G_vK3N1chSQiwkObDA&s",DW Espanol (1080p)
@@ -368,8 +368,8 @@ http://181.224.255.210:8001/play/a0oe/index.m3u8?hls
 http://181.224.255.210:8001/play/a0ny/index.m3u8?hls
 #EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbGmv_jIPPRTmCns3K9C93EAMl8CpKZkVMOXpN68SvIg&s=10",Dreamswork HD
 http://181.225.190.242:8000/play/a01h
-#EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSykXtRMz0mkkJne1J_oY7gCWz2cxb1Ca596gnHlQHoRw&s=10",Magic Kids
-https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/playlist.m3u8
+#EXTINF:-1 group-title="WEB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSykXtRMz0mkkJne1J_oY7gCWz2cxb1Ca596gnHlQHoRw&s=10",Magic Kids
+https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/9/91/NickToons_US_2023_Splat_Variant.webp/revision/latest?cb=20240131024225",Nick HD
 http://181.224.255.210:8001/play/a0fm/index.m3u8?hls
 #EXTINF:-1 group-title="https://raw.githubusercontent.com/martinez-x25/suprem3u-argentina/refs/heads/main/lista.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7DZcAMC_Qrysnb8TW96rKA0sJGONM-PFaUrUR63zBMQ&s=10",Paka Paka
