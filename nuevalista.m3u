@@ -90,8 +90,6 @@ http://181.79.87.130:8000/play/a0aw/index.m3u8
 http://38.226.49.253:8000/play/a07t/index.m3u8
 #EXTINF:-1 group-title="INDEX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl0tsCpqnEbo3GWDLzsSNbnSA2OojL7ISuZRX_O0-khxY5bPZI",ESPN U HD
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
-#EXTINF:-1 group-title="COUNTRIES AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8qh3p5D7gw4DVXBaH0lDGblk-AtT3qInhVRieUHknGgMh00uuAU196JCk&s=10",ESPN Extra
-https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/VRbBwrn1T7X5a-FG8-mqOZkbTjF_-o3ZggkmiapKaiihtox2Ck7zMYg2zL7M_WJH5U9Qab-m=s900-c-k-c0x00ffffff-no-rj",Fox Sports
 http://158.172.155.130:8000/play/a09x/index.m3u8
 #EXTINF:-1 group-title="https://raw.githubusercontent.com/martinez-x25/suprem3u-argentina/refs/heads/main/lista.m3u" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png",Fox Sports 2
@@ -280,8 +278,8 @@ http://186.148.196.100:8000/play/a014
 http://181.225.190.242:8000/play/a01g
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThva6WpaYpHwOl4kkms5WGhBomU3b3Xfq3arsfgNFlNQ&s=10",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT51ZwNg_fEU219_jF6TiwcebkvrFq2MVEyxGpUmojrMA&s=10",Las Estrellas HD
-http://205.235.6.29:8000/play/a0z0/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT51ZwNg_fEU219_jF6TiwcebkvrFq2MVEyxGpUmojrMA&s=10",Las Estrellas HD
+http://38.190.100.202:8000/play/a019/index.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbnhIvTP8MgaaDD-tGMmDm2zzm6-VrkCMsMp9c9BCNSmq_8OlOHRi84EAn&s=10",Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-3kyWQzHfy8bJADvhTyLbJo1tATCY7dCbyausuG7Qg&s=10",Panamericana TV
@@ -406,7 +404,7 @@ http://181.224.255.210:8001/play/a0qy/index.m3u8?hls
 http://45.5.118.152:8000/play/a02n/index.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://cdn.mitvstatic.com/channels/ar_entertainment_m.png",E! Latin America Mexico
 http://38.190.100.202:8000/play/a095/index.m3u8
-#EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://gcinco.com.gt/assets/canales/ent-channel.webp",ENT Channel
+#EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://www.40mediagroup.com/channels/ent-channel.webp",ENT Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 group-title="WEB" tvg-logo="https://www.40mediagroup.com/images/channels/ent-classic.png",ENT Classic
 https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
@@ -416,7 +414,7 @@ https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/tracks-
 https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="WEB" tvg-logo="https://www.40mediagroup.com/images/channels/ent-extreme.png",ENT Extreme
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://gcinco.com.gt/assets/canales/ent-family.webp",ENT Family
+#EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://static.elektamedia.com/ch/entf.png",ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 group-title="WEB" tvg-logo="https://www.40mediagroup.com/images/channels/ent-life.png",ENT Life
 https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
@@ -431,7 +429,7 @@ http://181.119.215.61:8000/play/a0gs/index.m3u8?hls
 #EXTINF:-1 group-title="CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-3cj7dKq_3RzD9uKX-0jTY5Hl782yl537WgrCx-V2A&s",FX HD
 http://181.79.87.130:8000/play/a0b4/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeMCoXOaWoLtx--RUj5nLyB-bu2-bPpYchRZxDw3z2qA&s=10",Golden HD
-http://181.224.255.210:8001/play/a0qg/index.m3u8?hls
+http://38.190.100.202:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeMCoXOaWoLtx--RUj5nLyB-bu2-bPpYchRZxDw3z2qA&s=10",Golden HD
 http://190.60.48.150:8000/play/golden/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdFV_iNTxQUIvAxv8NpZNXxKp3IdUf1JsQ_ESRHd25cw&s=10",Golden EDGE HD
