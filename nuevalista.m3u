@@ -4,6 +4,8 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 http://45.134.141.161:2200/ARG/C5N/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCXhwSjUV8HkXJhbvlzTjLTTqmZYHla-UA7CtxJ2OTiQ&s=10" group-title="RAW",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 group-title="RADIOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCdCerTQ213AOQV5ALS1JG2a1WvlgxVjSb00G_s3jTYA&s=10",Cronica TV HD
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__24.4CRONICA___
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4pLpKa2mOHvZZ9wLtvHWyZagR1qNHpfUcVyiAPmugGg&s=10" group-title="http://181.115.239.66:8000/playlist.m3u8",Cronica TV
 http://181.115.239.66:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXPJ0WQxAFWhA13fIY6Gt5wLUyLo2FLruBMWBuS9Vv1g&s=10",LN+
