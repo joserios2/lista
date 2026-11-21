@@ -170,8 +170,12 @@ https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d198ro05q94rc4.cloudfront.net/720p/index.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F35a1d7e4-caa3-477a-b813-90d23a756a16%2Fxitesiemprelatino_logo_light_-_Arlette_FiranRDX.png",XITE Siempre Latino
 https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
-#EXTINF:-1 group-title="SERENO TV" tvg-logo="https://play-lh.googleusercontent.com/gKw29KdLiqlfZ0luyPrv8ipj4pe1uYsI_BkoQg6J4UY_P8UiiGb0nC50sb60D54I5aQFBcKwkBKM4msn0mEWoQ",VClassicTV
-https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w2053474044.m3u8
+#EXTINF:-1 group-title="https://vclassictv.cl/" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr3jTrznt1m1rm6U5NtvZPYHY3Sqp4n7KKZYyOZL-ZPQ&s=10",VClassicTV
+https://5eaccbab48461.streamlock.net:1936/8264/8264/chunklist_w784797991.m3u8
+#EXTINF:-1 group-title="https://vclassictv.cl/" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWfGdGonUjd2TEFEzZb_ELGIv370GsubD2HW_5rOzFSQ&s=10",VClassicTV Latinos
+https://5eaccbab48461.streamlock.net:1936/8260/8260/chunklist_w110742884.m3u8
+#EXTINF:-1 group-title="https://vclassictv.cl/" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcSAkzKu07Ya0O8fIOdJGr3JzeNeeq3yBkQ6X-Rk1uNA&s=10",VClassicTV Tropical
+https://5eaccbab48461.streamlock.net:1936/8076/8076/chunklist_w836533169.m3u8
 #EXTINF:-1 group-title="WEB" tvg-logo="https://cdn.technettv.com/channel/36625/logo_256.png",Corazón TV
 https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
 #EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u?hls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3osCr_6urBwh4J6-pBrzXPsGpvFXlbq3o8NzEGyMokmspfEdGwiPlh19b&s=10",Claro Musica
