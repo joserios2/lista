@@ -124,6 +124,10 @@ http://38.190.100.202:8000/play/a082/index.m3u8
 http://38.190.100.202:8000/play/a083/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3NgCckIAknPx8UgsOOuAeXAhUnG5vuTqU-yv2i0P-Gw&s=10",Movistar Deportes
 http://38.190.100.202:8000/play/a07i/index.m3u8
+#EXTINF:-1 group-title="TV PLUS" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2025/03/PRESS_TUDN.png",TUDN
+https://deportes.ksdjugfssddeports.com/playlist/1/index.m3u8?token=095f8223dc281849323d9b42cf578480ffca2b08-9dce24344cd30b7ecddfd31ae7e0008b-1795265693-1795244093
+#EXTINF:-1 group-title="TV PLUS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249",Sky Sports La Liga
+https://deportes.ksdjugfssddeports.com/playlist/37/index.m3u8?token=1e38a9d763320c719b236ef4296efdf5cf1872ce-502097fcd234a762d80684d5171d4ab8-1795265867-1795244267
 #EXTINF:-1 group-title="COUNTRIES AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Lze_OCxuCe2PvbGXF2jPs9rg66Ug7SSUMAz4C1qPAw&s=10",FIFA+
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcB199riTmAGYKcUvwBYib0hGC9C_1ayOwhls1O8-3A&s=10",Garage TV
