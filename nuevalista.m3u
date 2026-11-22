@@ -47,7 +47,7 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",El Trece HD
 http://45.188.229.33:8000/play/a1dk/index.m3u8?hls
 #EXTINF:-1 group-title="RAW" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png",El Trece Internacional
-http://190.108.83.69:8000/play/a01d/index.m3u8
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4MKLzmMuA0IeEq_oZiGhTJANrVJOSeD-l7zPWx_NdyA&s",Volver
 http://138.59.227.20:8000/play/a066
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7EGqv6_i9cnhYwV4wtF1q9ZAaOILtrCZ2eYzUiskjfQ&s=10",Ciudad Magazine
@@ -124,10 +124,6 @@ http://38.190.100.202:8000/play/a082/index.m3u8
 http://38.190.100.202:8000/play/a083/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3NgCckIAknPx8UgsOOuAeXAhUnG5vuTqU-yv2i0P-Gw&s=10",Movistar Deportes
 http://38.190.100.202:8000/play/a07i/index.m3u8
-#EXTINF:-1 group-title="TV PLUS" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2025/03/PRESS_TUDN.png",TUDN
-https://deportes.ksdjugfssddeports.com/playlist/1/index.m3u8?token=095f8223dc281849323d9b42cf578480ffca2b08-9dce24344cd30b7ecddfd31ae7e0008b-1795265693-1795244093
-#EXTINF:-1 group-title="TV PLUS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249",Sky Sports La Liga
-https://deportes.ksdjugfssddeports.com/playlist/37/index.m3u8?token=1e38a9d763320c719b236ef4296efdf5cf1872ce-502097fcd234a762d80684d5171d4ab8-1795265867-1795244267
 #EXTINF:-1 group-title="COUNTRIES AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Lze_OCxuCe2PvbGXF2jPs9rg66Ug7SSUMAz4C1qPAw&s=10",FIFA+
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 #EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUcB199riTmAGYKcUvwBYib0hGC9C_1ayOwhls1O8-3A&s=10",Garage TV
@@ -214,14 +210,12 @@ https://stmv1.voxtvhd.com.br/chamametv/chamametv/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",Vorterix - 92.1 TV - CABA
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_92.1_VORTERIX__
-#EXTINF:-1 group-title="ttvnw" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3W0OaRMjTTwk5xRPVdOx1sCNRtxKYCpX3-KKjKiFWVA&s=10",Rock & Pop
-https://sae11.playlist.ttvnw.net/v1/playlist/CtUHXz9esDCWw6Z97VrE5Ig7rusOLkvcv7NIevhcukPZw7hJQTZ7HJ87tWA0rSaguaO75fo0Q5oERpT57eQ7LVcCBidxT9DP7jJQjoHDL1Jl9Z0b3xp-AoMarMVKrD7FVP38JnVjzgmsSa0its3ee_sLApFH35jKBZc4-BU1ItoHwfOVc_TYi2_M6SlgjZczeibCJV_92PseAHN_YqU4_RFN2JI4hAA1BNtjz2eHqyiy8xin3Bl54vM3wj4jFB_ENzbXHhUB5kVdSAmr9clpz7-hm8MGZwzaP6WOY65N3pAQH7YrHZFr3bNRvaNSuIfc3VR44x12dFTaVsj1FiK9xCi_6UdzR0hLW5RFRi2Vt8KXryr8NITT9T4CJOY6cxiGaRPdPTEnJYgviPqr2XP2b-j91ZCLVPO02tE0H4rF40fdS9oq3_8t3R060oiCzD-ImCfTiLMoaqCHD_4txd_y7yXgSigij2aFCMbJag31ZW2yreQSWWQIpZaMWJisMtxDoaVdjgF0SduyB0RQNDBtabGQARuJmW4DU55wxhAGn_6egtvzg7KRQbQ7hXUfbXOKTZWlipAkVRzF2iOX2KULjAiW1ZJOlVJR53kFDT0afLLxRdT9-SoovadQtTqqyXLcIY27m-TLlWHWX6nGp22jp9r-uxITGgsOT-Y1rO-DiOzaAgHdh3kFqySVwwCePdt7lTS95kQQG3mIR27it2XKJ0AARHooSooUuwMjGoYw_7y2s6YasEsnhefBwiOde_QvFcyXCPntovjtBKD7D00Rv_av87vr_iGVhIxbX5guFslJWwup_K1LtSxi3NWPdBOnrqbILpjKXqgrFSJ_KOw-hA0qJKEG8OccCE_LTqFjpDGIJ4QK7Z92iQwZfWx9WLLtf83_UM3RMpKdwVEzkn3qObk-6AcThj2FQ65tbsakXwicCS6nT7eb8uZNuQtCDQVmP7QLwFELXCR3D0KQ9FwGVoLyBrRhh1ZMaMk5kEaq0sikIXmipaQMjXgPNzH3UOOb397W0ahEELkf1xTs1p6uX-kgandPgIVhhqFAJKCIA7K_TkfN4WNdntKcNmlCufREhmTHIEe0dFZdE7Wvu8LvsJ3wO9aegb0aHzg164fFFPG8gqhVF-JYJH-edA9_ZAUGqJumEOloHBbyjTef7FmxXwy87jPRtEsVrmx33ubSktwm5jGhHjtYst1XoNzf98MDG4T9hnjUQaw_-Ou3ImDOZrN2t0TeDOQy61kZSCqrL9HcoN-se9iWii-RxyPW7YnTpl50UQE46M8Z4Pb9k9Pnu4k_r9lZUkVNGgxUsuWK1MzDlVefBxcgASoJdXMtZWFzdC0yMMwQ.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSup0nhgGqaPoyvTjQ6XCHHUwJJ_LdR4TQXi70CLziNog&s=10",Wox 88.3 TV
 https://radiosargentina.com.ar/php/artvDI.php?id=ARSTROSAR_88.3_WOX_______
-#EXTINF:-1 group-title="SERENO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgYeDo7nBt58znkhB60sL55l49O63Q5rRV70UyoY-ygg&s=10",13 Festival
-https://dai.google.com/linear/hls/pa/event/Nftd0fM2SXasfDlRphvUsg/stream/4bbc312b-9fa9-4a23-815f-14126662b0c7:ATL/variant/c46ba5969c6706373de2f08ae989aa0b/bandwidth/1876429.m3u8
-#EXTINF:-1 group-title="LENGUAGES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdB0X5IJhDUZiDQdBlv2nqu9krSQVaGhn5C_TF6mgaJA&s",5tv
-https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 group-title="Languages" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgYeDo7nBt58znkhB60sL55l49O63Q5rRV70UyoY-ygg&s=10",13 Festival
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 group-title="RAW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdB0X5IJhDUZiDQdBlv2nqu9krSQVaGhn5C_TF6mgaJA&s",5tv
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQref7_a2nLQg0RltkCnkFgE1u51jzkKq4x4gJr6Xa3jg&s=10",Acento TV
 https://acentotv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDgKl2GrSy5E8e2waoWEZYmkuBJcSTdBjeZnMryBJxyg&s=10" group-title="SerenoTV",Bayres TV - 41.1TV - G de Laferrere
