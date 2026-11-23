@@ -99,7 +99,7 @@ http://45.188.229.33:8000/play/a1ae/index.m3u8?hls
 #EXTINF:-1 group-title="http://181.115.239.66:8000/pllaylis.m3u8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ6H-93VvSMvOaBoFvtbH090mH1CVv13C09lh6p_ZuRQ&s=10",Fox Sports 3
 http://181.115.239.66:8000/play/a012/index.m3u8
 #EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjpUaDWIyAHLNwRCiT2ygW9iOutenItchDpHoX95qDBOcZL4Qm8dVN2884&s=10",FOX Sport Premium
-http://190.61.101.11:7050/play/a08u/index.m3u8?hls
+http://190.61.101.11:7050/play/a08u?ll
 #EXTINF:-1 group-title="CH" tvg-logo="https://yt3.googleusercontent.com/UgLvAWxOHY3GGeUgIy-5kzA0Clkfa36eX4lEokaROrSxr8g6Vh9anGiDb3oxb_DD3-p4tnXD=s900-c-k-c0x00ffffff-no-rj",TNT Sports
 http://181.79.87.130:8000/play/a0e0?ll
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz6CLXuCuDwpMdP-fVVjAdb83QhMZJbRKFv8dSkE6cPw&s=10" group-title="OPC",TNT Sports Premium HD
@@ -522,8 +522,8 @@ http://38.190.100.202:8000/play/a039/index.m3u8
 http://205.235.6.29:8000/play/a0ys/index.m3u8?hls
 #EXTINF:-1 group-title="OPC (OPC2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm81kyIUDJ7cr5Rk61EQuZg7lFbmRosHPL-8Uu7JK9jA&s",Pasiones HD
 http://45.5.118.152:8000/play/a06d/index.m3u8
-#EXTINF:-1 group-title="OPC (OPC2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCWE0qrhV3LDM5Q43ZDP3OvHuTVsLYiCEasaPeNhDFgg&s=10",RCN Novelas SD
-http://181.119.177.253:8000/play/a037/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCWE0qrhV3LDM5Q43ZDP3OvHuTVsLYiCEasaPeNhDFgg&s=10",RCN Novelas
+http://181.78.8.199:8000/play/a0a7?ll
 #EXTINF:-1 group-title="OPC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNg-hgaHCinsTAEqvf1qF3jlm12LD7_tyUjkxZI0Ulxg&s=10",Sony One Novelas
 https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8
 #EXTINF:-1 group-title="OPC  [Opc.1]" tvg-logo="https://yt3.googleusercontent.com/vSdFaqiU29F7hsmyfYnIGnJsjGJMWIknEwZhU_uRewDt4gANfmgO7tshMVnEUlPq2q4pcstZmUU=s900-c-k-c0x00ffffff-no-rj",Tlnovelas HD
