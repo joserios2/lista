@@ -73,7 +73,7 @@ http://38.226.49.253:8000/play/a065/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",ESPN Premium HD | ARG
 http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdc0JzYn3IyERyTif4dkcFyQcvGdBcM5MwDf1aZlcmQvTa-qSO",ESPN Premium HD | ARG
-http://138.59.227.20:8000/play/a086?ll
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/856564125455065089/MAJ4Buek_400x400.jpg",ESPN HD
 http://38.226.49.253:8000/play/a07l/index.m3u8
 #EXTINF:-1 group-title="CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZOZnAWNAL1L-TUMhZ2bM4lF_fx7pIrSXkJyoIWJZFGA&s=10",ESPN 2 HD
