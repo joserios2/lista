@@ -46,14 +46,14 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 http://45.188.229.33:8000/play/a1dk/index.m3u8?hls
 #EXTINF:-1 group-title="RAW" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png",El Trece Internacional
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8
-#EXTINF:-1 group-title="https://raw.githubusercontent.com/martinez-x25/suprem3u-argentina/refs/heads/main/lista.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtaTSjR2JteDnPR0M8bBMb02IyETlCQomqYzDWCj2XoQ&s=10",Encuentro
-http://138.59.227.20:8000/play/a05s?ll
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4MKLzmMuA0IeEq_oZiGhTJANrVJOSeD-l7zPWx_NdyA&s",Volver
 http://138.59.227.20:8000/play/a066?ll
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7EGqv6_i9cnhYwV4wtF1q9ZAaOILtrCZ2eYzUiskjfQ&s=10",Ciudad Magazine
 http://138.59.227.20:8000/play/a06m?ll
 #EXTINF:-1 group-title="WEB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj_ahx9GUJJdpQmTMZD1Ox1X0dwQvD3BWJiH7IY7x2HA&s=10",Ciudad Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="https://raw.githubusercontent.com/martinez-x25/suprem3u-argentina/refs/heads/main/lista.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtaTSjR2JteDnPR0M8bBMb02IyETlCQomqYzDWCj2XoQ&s=10",Encuentro
+http://138.59.227.20:8000/play/a05s?ll
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPZHt0eKF6qpzmnCMBYyQMM4mwEY8p0VAvPF_0eYC5nA&s",DeporTV
 http://138.59.227.20:8000/play/a07f?ll
 #EXTINF:-1 group-title="LISTADS OPC7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7hjBi2PhJzW0KNWT0ELsThCRr5FKDWHHW4EP0yD_4uQ&s=10",DSports
@@ -103,7 +103,7 @@ http://190.61.101.11:7050/play/a08u?ll
 #EXTINF:-1 group-title="CH" tvg-logo="https://yt3.googleusercontent.com/UgLvAWxOHY3GGeUgIy-5kzA0Clkfa36eX4lEokaROrSxr8g6Vh9anGiDb3oxb_DD3-p4tnXD=s900-c-k-c0x00ffffff-no-rj",TNT Sports
 http://181.79.87.130:8000/play/a0e0?ll
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz6CLXuCuDwpMdP-fVVjAdb83QhMZJbRKFv8dSkE6cPw&s=10" group-title="OPC",TNT Sports Premium HD
-http://186.148.163.17:8000/play/a0az?ll
+http://190.108.83.69:8000/play/a03i?ll
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMt_Bv81vx5ya7DrEQIXLPiLFkhmyqjPW9OBvXduvHvw&s",TNT Sports Premium HD | ARG
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/VkAgCIDmeBeTHRQhvzF4Pfqu-JbLy2WWvcwBB_qVwhKp-I30toccvyxlGJlbFpcJscwCQ1HwAg=s900-c-k-c0x00ffffff-no-rj",TyC Sports AR HD
@@ -360,7 +360,9 @@ https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playl
 https://amg01515-amg01515c13-xiaomi-international-4618.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3akU5AxuTyErmntcOXj5z2-NlefVo9px4YlXK5QzfPg&s=10" group-title="CH",Nat Geo HD
 http://181.79.87.130:8000/play/a0as/index.m3u8
-#EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u?hls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8w84jqCi2nyC9ojDj1msNDXsTZ-70HgrTUv37Y5KkJA&s",Total Animes
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/3840px-El_Chavo_%28simple_logo%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",El Chavo TV (24/7)
+https://183.giatvcdn.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 group-title="http://181.119.215.61:8000/playlist.m3u?hls" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8w84jqCi2nyC9ojDj1msNDXsTZ-70HgrTUv37Y5KkJA&s",Total Animes (24/7)
 http://38.190.100.202:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBMpabv4Mc7zuMRel9CVyITcuAZYRXgYlolGttrLYjLw&s=10",Cartoon Networtk
 http://38.190.100.202:8000/play/a085/index.m3u8
