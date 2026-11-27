@@ -146,8 +146,8 @@ http://181.115.239.66:8000/play/a00z/index.m3u8
 http://190.60.48.150:8000/play/telehit-latino?ll
 #EXTINF:-1 group-title="http://186.148.196.100:8000/playlist.m3u" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThw3cgUjrL1LerGrfpfgEece8OUOKve6cGNRO9m-PGzA&s=10",Telehit Musica
 http://190.60.48.150:8000/play/telehit?ll
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxkJYyHpwRoBhkLp4d8ioaFBmQePZH3VnsSWUFeD8aRHKVSTw1gvtFKegQ&s=10",Telehit Musica Plus
-http://190.61.101.11:7050/play/a04o?ll
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxkJYyHpwRoBhkLp4d8ioaFBmQePZH3VnsSWUFeD8aRHKVSTw1gvtFKegQ&s=10" group-title="http://190.61.101.11:7050/play/a04o?ll anterior",Telehit Musica Plus
+http://154.12.110.160:8100/play/a07p?ll
 #EXTINF:-1 group-title="http://181.225.190.242:8000/playlist.m3u" tvg-logo="https://www.imdlatam.com/_next/image?url=%2Fmi-musica-reggaeton-logo.png&w=256&q=75",MiMusica Reggaeton HD
 http://181.225.190.242:8000/play/a02e
 #EXTINF:-1 group-title="http://181.225.190.242:8000/playlist.m3u" tvg-logo="https://www.imdlatam.com/_next/image?url=%2Fmi-musica-romantica-logo.png&w=256&q=75",MiMusica Romantica HD
